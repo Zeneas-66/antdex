@@ -1,0 +1,16 @@
+(()=>{
+const replacements=[
+  [/正在读取 AntWiki \/ Wikipedia 的物种级正文；英文事实将尝试用 Google 翻译转成中文……/g,'正在整理公开资料…'],
+  [/以下为物种级公开资料的短摘要。英文内容优先尝试 Google 机器翻译；机器翻译只改变语言，不改变证据等级。/g,'以下内容按物种级公开资料整理；外文来源会优先显示中文辅助译文，并保留原文入口。'],
+  [/自动中文翻译/g,'机器翻译']
+];
+function clean(root=document){
+  const box=root.querySelector?.('#sourceDetail')||document.querySelector('#sourceDetail');
+  if(!box)return;
+  const w=document.createTreeWalker(box,NodeFilter.SHOW_TEXT);
+  const nodes=[];while(w.nextNode())nodes.push(w.currentNode);
+  for(const n of nodes){let t=n.nodeValue;for(const [a,b] of replacements)t=t.replace(a,b);n.nodeValue=t}
+}
+const ob=new MutationObserver(()=>clean());ob.observe(document.documentElement,{subtree:true,childList:true,characterData:true});
+document.addEventListener('DOMContentLoaded',()=>clean());setTimeout(clean,300);setTimeout(clean,1200);
+})();
