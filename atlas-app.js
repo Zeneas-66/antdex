@@ -2,7 +2,7 @@
 let DATA=[],selected='';
 const MY=window.MY||[],IM=window.ANTDEX_IMAGES||{};
 const $=s=>document.querySelector(s);
-const E=v=>(v??'').toString().replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const E=v=>(v??'').toString().replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[m]));
 const expandC=o=>({id:o.i,zh:o.z,aliases:o.a,sci:o.s,accepted:o.ac,subfamily:o.f,subfamilyZh:o.fz,genus:o.g,distribution:o.d,habitat:o.h,ecoTags:o.et,nest:o.n,diet:o.di,summary:o.sm,colony:o.co,worker:o.w,soldier:o.so,queen:o.q,male:o.m,identification:o.idn,behavior:o.b,flight:o.fl,temp:o.t,humidity:o.hu,difficulty:o.df,safety:o.sa});
 const expandA=o=>({id:o.i,zh:o.z,sci:o.s,accepted:o.ac,subfamily:o.f,subfamilyZh:o.fz,genus:o.g,aliases:o.la,distribution:o.ld,habitat:o.lh,ecoTags:o.let,nest:o.ln,diet:o.ldi,summary:o.lsm,worker:o.lw,workerDetail:o.lwd,queen:o.lq,temp:o.lt,humidity:o.lhu,husbandryWarning:o.lhw,nameNote:o.lnn});
 async function ungzipB64(b64){const bin=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));return await new Response(new Blob([bin]).stream().pipeThrough(new DecompressionStream('gzip'))).text()}
@@ -11,9 +11,7 @@ function usable(v){if(empty(v))return'';const s=Array.isArray(v)?v.join('、'):S
 const pick=(...xs)=>{for(const x of xs){const v=usable(x);if(v)return v}return''};
 function mergeRecord(a,c,l){return {
  id:pick(c?.id,a?.id,l?.i)||a?.id||c?.id||'',
- zh:pick(c?.zh,a?.zh,l?.z,l?.zh),
- aliases:pick(c?.aliases,a?.aliases,l?.a),
- sci:pick(c?.sci,a?.sci,l?.s)||a?.sci||c?.sci,
+ zh:pick(c?.zh,a?.zh,l?.z,l?.zh),aliases:pick(c?.aliases,a?.aliases,l?.a),sci:pick(c?.sci,a?.sci,l?.s)||a?.sci||c?.sci,
  accepted:pick(c?.accepted,a?.accepted),subfamily:pick(c?.subfamily,a?.subfamily),subfamilyZh:pick(c?.subfamilyZh,a?.subfamilyZh),genus:pick(c?.genus,a?.genus),
  summary:pick(c?.summary,a?.summary,l?.sm),distribution:pick(c?.distribution,a?.distribution,l?.d),habitat:pick(c?.habitat,a?.habitat,l?.h),ecoTags:pick(c?.ecoTags,a?.ecoTags,l?.et),nest:pick(c?.nest,a?.nest,l?.n),diet:pick(c?.diet,a?.diet,l?.di),
  colony:pick(c?.colony,l?.co),worker:pick(c?.worker,a?.worker,l?.w),workerDetail:pick(a?.workerDetail,l?.wd),soldier:pick(c?.soldier,l?.so),queen:pick(c?.queen,a?.queen,l?.q),male:pick(c?.male,l?.m),identification:pick(c?.identification,l?.idn),behavior:pick(c?.behavior,l?.b),flight:pick(c?.flight,l?.fl),
@@ -29,14 +27,18 @@ function picture(x){const m=IM[x.id];if(m?.file)return`<div class="photo"><img s
 const row=(k,v)=>usable(v)?`<b>${E(k)}</b><span>${E(usable(v))}</span>`:'';
 function card(title,body,cls=''){return body?`<div class="card ${cls}"><h3>${E(title)}</h3>${body}</div>`:''}
 function para(v){const s=usable(v);return s?`<p>${E(s)}</p>`:''}
+function cleanSentence(s){return String(s||'').trim().replace(/[。；;，,\s]+$/,'')}
+function introText(x){const direct=usable(x.summary);if(direct)return direct;const name=x.zh||x.sci;const parts=[];let lead=`${name}${x.zh&&x.sci?`（${x.sci}）`:''}`;const tax=[];if(usable(x.genus))tax.push(`${x.genus}属`);if(usable(x.subfamilyZh))tax.push(x.subfamilyZh);else if(usable(x.subfamily))tax.push(x.subfamily);if(tax.length)lead+=`隶属于${tax.join('、')}`;lead+='。';parts.push(lead);
+ const dist=usable(x.distribution),hab=usable(x.habitat),nest=usable(x.nest),diet=usable(x.diet),worker=usable(x.worker),queen=usable(x.queen),beh=usable(x.behavior),eco=usable(x.ecoTags),col=usable(x.colony);
+ if(dist)parts.push(`分布方面，${cleanSentence(dist)}。`);if(hab)parts.push(`常见生境包括${cleanSentence(hab)}。`);if(worker||queen){const sz=[];if(worker)sz.push(`工蚁${cleanSentence(worker)}`);if(queen)sz.push(`蚁后${cleanSentence(queen)}`);parts.push(`体型方面，${sz.join('，')}。`)}if(nest)parts.push(`筑巢方面，${cleanSentence(nest)}。`);if(diet)parts.push(`食性方面，${cleanSentence(diet)}。`);if(beh)parts.push(`${cleanSentence(beh)}。`);else if(eco)parts.push(`${cleanSentence(eco)}。`);else if(col)parts.push(`${cleanSentence(col)}。`);return parts.join('')}
 function husbandry(x){const rows=[row('温度',x.temp),row('湿度',x.humidity),row('巢穴/保湿',x.nest),row('食物',x.diet),row('饲养难度',x.difficulty),row('注意事项',x.husbandryWarning||x.safety)].join('');return rows?`<div class="meta">${rows}</div>`:''}
-function detailed(x){const chunks=[];if(usable(x.identification))chunks.push(`<h4>形态与鉴别</h4><p>${E(usable(x.identification))}</p>`);if(usable(x.behavior))chunks.push(`<h4>行为</h4><p>${E(usable(x.behavior))}</p>`);if(usable(x.colony))chunks.push(`<h4>群落与繁殖</h4><p>${E(usable(x.colony))}</p>`);if(usable(x.flight))chunks.push(`<h4>婚飞</h4><p>${E(usable(x.flight))}</p>`);if(usable(x.ecoTags))chunks.push(`<h4>生态特征</h4><p>${E(usable(x.ecoTags))}</p>`);if(usable(x.nameNote))chunks.push(`<h4>补充说明</h4><p>${E(usable(x.nameNote))}</p>`);return chunks.join('')}
+function detailed(x){const chunks=[];if(usable(x.identification))chunks.push(`<h4>形态与鉴别</h4><p>${E(usable(x.identification))}</p>`);if(usable(x.workerDetail))chunks.push(`<h4>体型补充</h4><p>${E(usable(x.workerDetail))}</p>`);if(usable(x.behavior))chunks.push(`<h4>行为</h4><p>${E(usable(x.behavior))}</p>`);if(usable(x.colony))chunks.push(`<h4>群落与繁殖</h4><p>${E(usable(x.colony))}</p>`);if(usable(x.flight))chunks.push(`<h4>婚飞</h4><p>${E(usable(x.flight))}</p>`);if(usable(x.ecoTags))chunks.push(`<h4>生态特征</h4><p>${E(usable(x.ecoTags))}</p>`);if(usable(x.nameNote))chunks.push(`<h4>补充说明</h4><p>${E(usable(x.nameNote))}</p>`);return chunks.join('')}
 function center(){let x=DATA.find(v=>v.sci===selected);if(!x){x=DATA[0];if(!x)return;selected=x.sci}$('#hero').innerHTML=`<div class="hg"><div><div class="k">${E(x.subfamilyZh||x.subfamily||'蚂蚁图鉴')}</div><h1>${E(x.zh||x.sci)}</h1><div class="latin">${E(x.sci)}</div>${usable(x.aliases)?`<div class="alias">别名：${E(usable(x.aliases))}</div>`:''}<div class="tax">${E([x.subfamilyZh||x.subfamily,x.genus].filter(Boolean).join(' · '))}</div></div><div>${picture(x)}</div></div>`;
  const core=[row('工蚁',x.worker),row('兵蚁',x.soldier),row('蚁后',x.queen),row('雄蚁',x.male),row('温度',x.temp),row('湿度',x.humidity)].join('');
  const eco=[usable(x.distribution)?`<h4>分布</h4><p>${E(usable(x.distribution))}</p>`:'',usable(x.habitat)?`<h4>生境</h4><p>${E(usable(x.habitat))}</p>`:''].join('');
  const nestDiet=[usable(x.nest)?`<h4>巢穴</h4><p>${E(usable(x.nest))}</p>`:'',usable(x.diet)?`<h4>食性</h4><p>${E(usable(x.diet))}</p>`:''].join('');
- const detail=detailed(x),guide=husbandry(x);
- $('#content').innerHTML=`<div class="grid">${card('物种介绍',para(x.summary),'wide intro')}${core?card('核心参数',`<div class="meta">${core}</div>`):''}${card('生态与分布',eco)}${card('巢穴与食性',nestDiet)}${card('饲养指南',guide,'wide husbandry')}${card('详细信息',detail,'wide details')}</div>`}
+ const detail=detailed(x),guide=husbandry(x),intro=introText(x);
+ $('#content').innerHTML=`<div class="grid">${card('物种介绍',para(intro),'wide intro')}${core?card('核心参数',`<div class="meta">${core}</div>`):''}${card('生态与分布',eco)}${card('巢穴与食性',nestDiet)}${card('饲养指南',guide,'wide husbandry')}${card('详细信息',detail,'wide details')}</div>`}
 function renderMy(){const byId=new Map(DATA.map(x=>[x.id,x]));$('#mc').textContent=`${MY.length} 条`;$('#my').innerHTML=MY.map(m=>{const x=m.m?byId.get(m.m):null;return`<div class="mi" data-sci="${E(x?.sci||'')}"><div class="mr"><b>${E(m.l)}</b><span class="days">${E(m.d)}d</span></div><div class="st">${E(m.st)}${x?' · '+E(x.zh||x.sci):''}</div></div>`}).join('');document.querySelectorAll('.mi').forEach(el=>{if(el.dataset.sci)el.onclick=()=>{selected=el.dataset.sci;list();center()}})}
 async function boot(){try{await loadDb();$('#speciesStat').textContent=DATA.length;selected=DATA[0]?.sci||'';fillFilters();$('#q').addEventListener('input',list);$('#sf').addEventListener('change',list);list();center();renderMy()}catch(err){$('#hero').innerHTML=`<div class="loading">数据库加载失败：${E(err.message||err)}</div>`}}boot();
 })();
