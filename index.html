@@ -1,9 +1,84 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>AntDex · 蚂蚁百科</title><meta name="description" content="AntDex 蚂蚁百科：中文名优先的蚂蚁图鉴、生态资料与饲养记录。"><link rel="stylesheet" href="style.css?v=20260814-v4"></head><body>
-<div class="top"><div class="logo">AntDex <small>蚂蚁百科</small></div><div class="sp"></div><div class="pill">300 条目 · 中文名优先</div></div>
-<div class="layout">
-<aside class="pane left"><input id="q" placeholder="搜索中文名 / 别名 / 学名 / 属名"><div class="filters"><select id="sf"></select><select id="reg"></select><select id="level"></select><select id="cnf"></select></div><div class="count" id="count"></div><div class="list" id="list"></div></aside>
-<main class="pane center"><section class="hero" id="hero"></section><section class="content" id="content"></section></main>
-<aside class="pane right"><div class="rule"><b>AntDex</b><br>首页优先自然/生态实景照；AntWeb 标本照只在完整详情加载。<br><br>未核实的体型、温湿度和生态参数不拿近缘种代填。</div><h3>我在养 <small id="mc"></small></h3><div class="my" id="my"></div></aside>
-</div>
-<script src="data1.js?v=20260814-v4"></script><script src="data2.js?v=20260814-v4"></script><script src="data3.js?v=20260814-v4"></script><script src="data4.js?v=20260814-v4"></script><script src="data5.js?v=20260814-v4"></script><script src="data6.js?v=20260814-v4"></script><script src="my.js?v=20260814-v4"></script><script src="rich.js?v=20260814-v4"></script><script src="app-v4.js?v=20260814-v4"></script></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#102720">
+  <meta name="description" content="AntDex 蚂蚁图鉴：基于可追溯数据库与本地图片缓存构建的蚂蚁物种百科。">
+  <title>AntDex · 蚂蚁图鉴</title>
+  <link rel="stylesheet" href="style.css?v=20260816">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="AntDex 首页">
+      <span class="brand-mark">A</span>
+      <span><b>AntDex</b><small>蚂蚁图鉴 · Local Image Edition</small></span>
+    </a>
+    <div class="topstats">
+      <span id="speciesStat">732 物种</span>
+      <span id="imageStat">本地图片读取中</span>
+    </div>
+  </header>
+
+  <main class="shell">
+    <aside class="sidebar">
+      <div class="sidebar-head">
+        <h1>物种库</h1>
+        <p>中文名优先 · 学名可追溯 · 图片本地缓存</p>
+      </div>
+      <label class="searchbox">
+        <span>⌕</span>
+        <input id="q" type="search" placeholder="搜索中文名 / 学名 / 属名">
+      </label>
+      <div class="filters">
+        <label>亚科<select id="sf"><option value="">全部亚科</option></select></label>
+        <label>图片<select id="imgFilter">
+          <option value="">全部</option>
+          <option value="local">已有本地图片</option>
+          <option value="evidence">已有外部图片证据</option>
+          <option value="missing">仍缺本地图片</option>
+        </select></label>
+        <label>中国记录<select id="cnFilter">
+          <option value="">全部</option>
+          <option value="yes">中国有记录</option>
+          <option value="no">非中国/未见记录</option>
+          <option value="unknown">待核</option>
+        </select></label>
+      </div>
+      <div class="count" id="count"></div>
+      <div class="legend">
+        <span><i class="dot local"></i>本地图片</span>
+        <span><i class="dot evidence"></i>外部有图证据</span>
+        <span><i class="dot missing"></i>仍待补图</span>
+      </div>
+    </aside>
+
+    <section class="content">
+      <div class="content-head">
+        <div>
+          <div class="eyebrow">ANTDEX SPECIES ATLAS</div>
+          <h2>蚂蚁图鉴</h2>
+          <p>优先展示干净、清晰、可追溯授权的个体照片。点击物种查看完整资料与图片来源。</p>
+        </div>
+        <div class="sortbar">
+          <button class="sortbtn on" data-sort="image">图片优先</button>
+          <button class="sortbtn" data-sort="name">名称排序</button>
+          <button class="sortbtn" data-sort="complete">资料完整度</button>
+        </div>
+      </div>
+      <div id="grid" class="grid" aria-live="polite"></div>
+      <button id="more" class="more" hidden>继续加载</button>
+      <div id="empty" class="empty" hidden>没有匹配到物种，换个关键词或筛选条件试试。</div>
+    </section>
+  </main>
+
+  <div id="backdrop" class="backdrop" hidden></div>
+  <aside id="drawer" class="drawer" aria-hidden="true">
+    <button id="close" class="close" aria-label="关闭">×</button>
+    <div id="detail"></div>
+  </aside>
+
+  <noscript>本网站需要 JavaScript 才能浏览图鉴。</noscript>
+  <script src="app.js?v=20260816" defer></script>
+</body>
+</html>
