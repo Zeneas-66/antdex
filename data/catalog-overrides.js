@@ -7,19 +7,24 @@ window.ANTDEX_CATALOG_OVERRIDES={
       distribution:"中国；当前公开分类目录列有中国记录",
       habitat:"中国森林生态系统有记录；与树木环境关系密切",
       nest:"公开研究记录其可在寄主植物上构筑纸质遮棚，并与粉蚧形成营养互利关系",
-      summary:"中国记录的光胸臭蚁属物种。当前 AntDex 将其作为正式种条目，与蚁圈流通名“秦岭光胸臭蚁”分开保存；在没有形态鉴定证据前，不把秦岭流通群体直接等同于本种。",
+      summary:"中国记录的光胸臭蚁属正式种。当前 AntDex 将其作为正式物种条目，与蚁圈流通名“秦岭光胸臭蚁”分开保存；在没有形态鉴定证据前，不把秦岭流通群体直接等同于本种。",
       supplementSourceLabel:"公开中文资料 / AntWiki补充",
       supplementSources:[
         ["AntWiki · Liometopum sinense","https://www.antwiki.org/wiki/Liometopum_sinense"],
-        ["广西花坪蚂蚁图鉴公开目录","https://www.hceis.com/home/book_view.aspx?ISBN=9787559841582&id=13081"]
+        ["GBIF / Catalogue of Life 中文俗名","https://www.gbif.org/taxon/3V6RQ"]
       ]
     },
     "Liometopum lindgreeni":{
+      zh:"林氏光臭蚁",
+      aliases:"林氏光臭蚁",
       china:"是",
       distribution:"中国、印度等地有公开记录",
-      summary:"中国现行公开物种目录列出的光胸臭蚁属正式种之一。中文主名当前证据不足，AntDex 暂不强行翻译；与“秦岭光胸臭蚁”保持待鉴定关系。",
-      supplementSourceLabel:"AntWiki补充",
-      supplementSources:[["AntWiki · Liometopum lindgreeni","https://www.antwiki.org/wiki/Liometopum_lindgreeni"]]
+      summary:"中国有记录的光胸臭蚁属正式种。中文文献使用“林氏光臭蚁”。AntDex 与“秦岭光胸臭蚁”保持待鉴定关联，不因地域流通名直接合并。",
+      supplementSourceLabel:"公开中文文献 / AntWiki补充",
+      supplementSources:[
+        ["藏东南嘎隆拉山及墨脱河谷蚂蚁物种分布格局","https://html.rhhz.net/linyekexue/html/2016-11-88.htm"],
+        ["AntWiki · Liometopum lindgreeni","https://www.antwiki.org/wiki/Liometopum_lindgreeni"]
+      ]
     }
   },
   local:[
