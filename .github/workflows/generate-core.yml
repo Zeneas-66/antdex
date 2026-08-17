@@ -23,7 +23,7 @@ jobs:
         run: node tools/generate-antwiki-core.mjs
       - name: Commit generated core
         run: |
-          git add data/generated-core.js data/generated-core-report.json
+          git add data/verified-batch-99.js data/generated-core-report.json
           if git diff --cached --quiet; then
             echo 'No generated changes.'
             exit 0
