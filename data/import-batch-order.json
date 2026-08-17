@@ -1,0 +1,1 @@
+{"order":["rich.js","data/verified-import.js","data/verified-batch-01.js","data/import-selftest.js","atlas-app.js"],"note":"All verified import scripts must load before atlas-app.js so RX is complete when the renderer initializes."}
