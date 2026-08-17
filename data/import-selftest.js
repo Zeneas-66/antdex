@@ -1,11 +1,14 @@
 (()=>{'use strict';
-const expect=["Myrmecia brevinoda","Cataglyphis pallida","Myrmecia acuta","Myrmecia analis","Myrmecia comata","Myrmecia desertorum","Myrmecia esuriens","Myrmecia flammicollis","Myrmecia flavicoma","Myrmecia forceps","Atta cephalotes","Atta sexdens","Atta laevigata","Acromyrmex rugosus"];
+const expect=["Myrmecia brevinoda","Cataglyphis pallida","Myrmecia acuta","Myrmecia analis","Myrmecia comata","Myrmecia desertorum","Myrmecia esuriens","Myrmecia flammicollis","Myrmecia flavicoma","Myrmecia forceps","Atta cephalotes","Atta sexdens","Atta laevigata","Acromyrmex rugosus","Myrmecia aberrans","Myrmecia arnoldi","Myrmecia auriventris","Myrmecia banksi","Myrmecia borealis","Myrmecia croslandi","Myrmecia dimidiata"];
 const required={
  "Myrmecia brevinoda":["summary","worker","queen","ecology"],
  "Myrmecia analis":["summary","distribution","worker","ecology"],
  "Myrmecia desertorum":["summary","distribution","habitat","ecology"],
  "Atta cephalotes":["summary","distribution","ecology"],
- "Acromyrmex rugosus":["summary","distribution","ecology"]
+ "Acromyrmex rugosus":["summary","distribution","ecology"],
+ "Myrmecia aberrans":["summary","nest","colony","ecology"],
+ "Myrmecia banksi":["summary","distribution","habitat","identification"],
+ "Myrmecia croslandi":["summary","distribution","habitat","ecology"]
 };
 const missing=expect.filter(k=>!window.ANTDEX_RICH?.[k]),invalid=[],fieldMissing=[];
 for(const k of expect){const r=window.ANTDEX_RICH?.[k];if(!r)continue;if(!r.summary&&!r.distribution&&!r.identification&&!r.ecology)invalid.push(k)}
