@@ -1,20 +1,20 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:45:09.620Z
+生成时间：2026-08-17T03:45:34.211Z
 
-总物种：**740**；已有 verified/rich 记录：**685**；导入冲突：**0**。
+总物种：**752**；已有 verified/rich 记录：**699**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Myrmicinae · 切叶蚁亚科 | 304 | 282 | 282 | 15 | 22 | 92.8% |
-| Formicinae · 蚁亚科 | 228 | 220 | 220 | 13 | 8 | 96.5% |
+| Myrmicinae · 切叶蚁亚科 | 304 | 283 | 283 | 15 | 21 | 93.1% |
+| Formicinae · 蚁亚科 | 228 | 221 | 221 | 13 | 7 | 96.9% |
 | Ponerinae · 猛蚁亚科 | 68 | 68 | 68 | 48 | 0 | 100% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
+| Unknown | 20 | 20 | 20 | 0 | 0 | 100% |
 | Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 16 | 16 | 16 | 0 | 100% |
 | Proceratiinae · 卷尾猛蚁亚科 | 11 | 11 | 11 | 8 | 0 | 100% |
-| Unknown | 8 | 8 | 8 | 0 | 0 | 100% |
 | Ectatomminae · 突蚁亚科 | 6 | 6 | 6 | 4 | 0 | 100% |
 | Amblyoponinae · 钝猛蚁亚科 | 4 | 4 | 4 | 1 | 0 | 100% |
 | Leptanillinae · 细蚁亚科 | 3 | 3 | 3 | 2 | 0 | 100% |
@@ -39,7 +39,6 @@
 - Strumigenys anhdaoae — 有效字段 0；缺核心：summary, distribution
 - Strumigenys apalachicolensis — 有效字段 0；缺核心：summary, distribution
 - Strumigenys archboldi — 有效字段 0；缺核心：summary, distribution
-- Strumigenys canina — 有效字段 0；缺核心：summary, distribution
 - Strumigenys paraposta — 有效字段 0；缺核心：summary, distribution
 - Strumigenys strygax — 有效字段 0；缺核心：summary, distribution
 - Temnothorax nassonovi — 有效字段 0；缺核心：summary, distribution
@@ -251,6 +250,7 @@
 - Strumigenys abdera — 有效字段 2；缺核心：无
 - Strumigenys actis — 有效字段 2；缺核心：无
 - Strumigenys alberti — 有效字段 2；缺核心：无
+- Strumigenys canina — 有效字段 2；缺核心：无
 - Strumigenys dohertyi — 有效字段 2；缺核心：无
 - Strumigenys dyschima — 有效字段 2；缺核心：无
 - Strumigenys elegantula — 有效字段 2；缺核心：无
@@ -302,7 +302,6 @@
 - Tetramorium wroughtonii — 有效字段 2；缺核心：无
 - 安氏真收获蚁 · Veromessor andrei — 有效字段 2；缺核心：无
 - 佩氏真收获蚁 · Veromessor pergandei — 有效字段 2；缺核心：无
-- 埃氏扁胸切叶蚁 · Vollenhovia emeryi — 有效字段 2；缺核心：无
 
 ### Formicinae · 蚁亚科
 
@@ -313,7 +312,6 @@
 - 四刺多刺蚁 · Polyrhachis quadrispinosa — 有效字段 0；缺核心：summary, distribution
 - Prenolepis cyclopia — 有效字段 0；缺核心：summary, distribution
 - Prenolepis quinquedenta — 有效字段 0；缺核心：summary, distribution
-- Uwari keihitoi — 有效字段 0；缺核心：summary, distribution
 - Acropyga nipponensis — 有效字段 2；缺核心：无
 - 巴塔哥尼亚短蚁 · Brachymyrmex patagonicus — 有效字段 2；缺核心：无
 - Camponotus absquatulator — 有效字段 2；缺核心：无
@@ -509,6 +507,7 @@
 - Pseudolasius emeryi — 有效字段 2；缺核心：无
 - Pseudolasius familiaris — 有效字段 2；缺核心：无
 - Pseudolasius silvestrii — 有效字段 2；缺核心：无
+- Uwari keihitoi — 有效字段 2；缺核心：无
 
 ### Ponerinae · 猛蚁亚科
 
@@ -526,6 +525,21 @@
 
 核心资料已覆盖。
 
+### Unknown
+
+- Pheidole jucunda — 有效字段 2；缺核心：无
+- Pheidole lamellinoda — 有效字段 2；缺核心：无
+- Polyrhachis laevissima — 有效字段 2；缺核心：无
+- Polyrhachis militaris — 有效字段 2；缺核心：无
+- Solenopsis laeviceps — 有效字段 2；缺核心：无
+- Strumigenys karawajewi — 有效字段 2；缺核心：无
+- Strumigenys liuweii — 有效字段 2；缺核心：无
+- Temnothorax congruus — 有效字段 2；缺核心：无
+- Temnothorax mongolicus — 有效字段 2；缺核心：无
+- Temnothorax ruginosus — 有效字段 2；缺核心：无
+- Vollenhovia oblonga — 有效字段 2；缺核心：无
+- Vollenhovia pyrrhoria — 有效字段 2；缺核心：无
+
 ### Pseudomyrmecinae · 伪切叶蚁亚科
 
 核心资料已覆盖。
@@ -533,12 +547,6 @@
 ### Proceratiinae · 卷尾猛蚁亚科
 
 核心资料已覆盖。
-
-### Unknown
-
-- Pheidole jucunda — 有效字段 2；缺核心：无
-- Pheidole lamellinoda — 有效字段 2；缺核心：无
-- Polyrhachis laevissima — 有效字段 2；缺核心：无
 
 ### Ectatomminae · 突蚁亚科
 
