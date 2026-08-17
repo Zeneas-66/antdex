@@ -6,38 +6,27 @@ const clean=v=>{if(v==null)return'';if(Array.isArray(v))return v.filter(Boolean)
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
 window.ANTDEX_IMPORT_CONFLICTS=window.ANTDEX_IMPORT_CONFLICTS||[];
 window.ANTDEX_IMPORT_LOG=window.ANTDEX_IMPORT_LOG||[];
-window.ANTDEX_IMPORT=function(batchId,batch){
-  const root=window.ANTDEX_RICH=window.ANTDEX_RICH||{};
-  let inserted=0,filled=0,conflicts=0,rejected=0;
-  for(const [sci,raw] of Object.entries(batch||{})){
-    if(!sci||!raw||typeof raw!=='object'||Array.isArray(raw))continue;
-    const incoming={...raw};
-    if(incoming.sci&&incoming.sci!==sci){window.ANTDEX_IMPORT_CONFLICTS.push({batchId,sci,field:'sci',existing:sci,incoming:incoming.sci,reason:'key mismatch'});conflicts++;rejected++;continue}
-    delete incoming.sci;
-    const cur=root[sci]||{},next={...cur};
-    if(!root[sci])inserted++;
-    for(const [k,v0] of Object.entries(incoming)){
-      if(!ALLOWED.has(k)){window.ANTDEX_IMPORT_CONFLICTS.push({batchId,sci,field:k,existing:cur[k],incoming:v0,reason:'unknown field'});conflicts++;rejected++;continue}
-      const v=clean(v0);if(v===''||(Array.isArray(v)&&!v.length))continue;
-      const old=clean(cur[k]);
-      if(old===''||(Array.isArray(old)&&!old.length)){next[k]=v;filled++;continue}
-      if(k==='sources'&&Array.isArray(v)){
-        const merged=[...(Array.isArray(cur.sources)?cur.sources:[])];
-        for(const item of v){if(Array.isArray(item)&&item[0]&&item[1]&&!merged.some(x=>same(x,item)))merged.push(item)}
-        next.sources=merged;continue
-      }
-      if(k==='regions'&&Array.isArray(v)){
-        next.regions=[...new Set([...(Array.isArray(cur.regions)?cur.regions:[]),...v])];continue
-      }
-      if(!same(old,v)){window.ANTDEX_IMPORT_CONFLICTS.push({batchId,sci,field:k,existing:old,incoming:v,reason:'existing verified value preserved'});conflicts++}
-    }
-    root[sci]=next;
+function merge(batchId,batch,{generated=false}={}){
+ const root=window.ANTDEX_RICH=window.ANTDEX_RICH||{};let inserted=0,filled=0,conflicts=0,rejected=0,skipped=0;
+ for(const [sci,raw] of Object.entries(batch||{})){
+  if(!sci||!raw||typeof raw!=='object'||Array.isArray(raw))continue;
+  const incoming={...raw};
+  if(incoming.sci&&incoming.sci!==sci){window.ANTDEX_IMPORT_CONFLICTS.push({batchId,sci,field:'sci',existing:sci,incoming:incoming.sci,reason:'key mismatch'});conflicts++;rejected++;continue}delete incoming.sci;
+  const cur=root[sci]||{},next={...cur};if(!root[sci])inserted++;
+  for(const [k,v0] of Object.entries(incoming)){
+   if(!ALLOWED.has(k)){window.ANTDEX_IMPORT_CONFLICTS.push({batchId,sci,field:k,existing:cur[k],incoming:v0,reason:'unknown field'});conflicts++;rejected++;continue}
+   const v=clean(v0);if(v===''||(Array.isArray(v)&&!v.length))continue;const old=clean(cur[k]);
+   if(old===''||(Array.isArray(old)&&!old.length)){next[k]=v;filled++;continue}
+   if(k==='sources'&&Array.isArray(v)){const merged=[...(Array.isArray(cur.sources)?cur.sources:[])];for(const item of v){if(Array.isArray(item)&&item[0]&&item[1]&&!merged.some(x=>same(x,item)))merged.push(item)}next.sources=merged;continue}
+   if(k==='regions'&&Array.isArray(v)){next.regions=[...new Set([...(Array.isArray(cur.regions)?cur.regions:[]),...v])];continue}
+   if(generated){skipped++;continue}
+   if(!same(old,v)){window.ANTDEX_IMPORT_CONFLICTS.push({batchId,sci,field:k,existing:old,incoming:v,reason:'existing verified value preserved'});conflicts++}
   }
-  const summary={batchId,inserted,filled,conflicts,rejected,total:Object.keys(batch||{}).length};
-  window.ANTDEX_IMPORT_LOG.push(summary);
-  console.info('[AntDex import]',summary);
-  if(conflicts)console.warn('[AntDex import conflicts]',window.ANTDEX_IMPORT_CONFLICTS.filter(x=>x.batchId===batchId));
-  return summary;
-};
+  root[sci]=next;
+ }
+ const summary={batchId,inserted,filled,conflicts,rejected,skipped,total:Object.keys(batch||{}).length,generated};window.ANTDEX_IMPORT_LOG.push(summary);console.info('[AntDex import]',summary);if(conflicts)console.warn('[AntDex import conflicts]',window.ANTDEX_IMPORT_CONFLICTS.filter(x=>x.batchId===batchId));return summary;
+}
+window.ANTDEX_IMPORT=(batchId,batch)=>merge(batchId,batch);
+window.ANTDEX_IMPORT_GENERATED=(batchId,batch)=>merge(batchId,batch,{generated:true});
 window.ANTDEX_IMPORT_SCHEMA=[...ALLOWED];
 })();
