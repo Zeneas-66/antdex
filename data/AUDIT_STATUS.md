@@ -1,16 +1,16 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T02:59:14.053Z
+生成时间：2026-08-17T03:02:12.903Z
 
-总物种：**732**；已有 verified/rich 记录：**69**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**97**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Dorylinae · 行军蚁亚科 | 28 | 0 | 0 | 0 | 28 | 0% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 1 | 1 | 1 | 38 | 2.6% |
 | Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
+| Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
 | Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 16 | 16 | 16 | 0 | 100% |
 | Proceratiinae · 卷尾猛蚁亚科 | 11 | 11 | 11 | 8 | 0 | 100% |
@@ -20,37 +20,6 @@
 | Paraponerinae · 近猛蚁亚科 | 1 | 1 | 1 | 1 | 0 | 100% |
 
 ## 每个亚科优先补齐名单
-
-### Dorylinae · 行军蚁亚科
-
-- Aenictus artipus — 有效字段 0；缺核心：summary, distribution
-- Aenictus ceylonicus — 有效字段 0；缺核心：summary, distribution
-- 富川双节行军蚁 · Aenictus fuchuanensis — 有效字段 0；缺核心：summary, distribution
-- Aenictus gutianshanensis — 有效字段 0；缺核心：summary, distribution
-- Aenictus hodgsoni — 有效字段 0；缺核心：summary, distribution
-- Aenictus hoelldobleri — 有效字段 0；缺核心：summary, distribution
-- Aenictus laeviceps — 有效字段 0；缺核心：summary, distribution
-- Aenictus paradentatus — 有效字段 0；缺核心：summary, distribution
-- Aenictus thailandianus — 有效字段 0；缺核心：summary, distribution
-- Aenictus wudangshanensis — 有效字段 0；缺核心：summary, distribution
-- Aenictus yangi — 有效字段 0；缺核心：summary, distribution
-- 槽结粗角蚁 · Cerapachys sulcinodis — 有效字段 0；缺核心：summary, distribution
-- 棱纹克雷蚁 · Chrysapace costatus — 有效字段 0；缺核心：summary, distribution
-- 温氏柱蚁 · Cylindromyrmex whymperi — 有效字段 0；缺核心：summary, distribution
-- Dorylus nigricans — 有效字段 0；缺核心：summary, distribution
-- Dorylus orientalis — 有效字段 0；缺核心：summary, distribution
-- Dorylus wilverthi — 有效字段 0；缺核心：summary, distribution
-- 布氏游蚁 · Eciton burchellii — 有效字段 0；缺核心：summary, distribution
-- Eciton hamatum — 有效字段 0；缺核心：summary, distribution
-- 盲钳蚁 · Labidus coecus — 有效字段 0；缺核心：summary, distribution
-- 掠夺钳蚁 · Labidus praedator — 有效字段 0；缺核心：summary, distribution
-- 黑内瓦蚁 · Neivamyrmex nigrescens — 有效字段 0；缺核心：summary, distribution
-- 毛内瓦蚁 · Neivamyrmex pilosus — 有效字段 0；缺核心：summary, distribution
-- 苏氏内瓦蚁 · Neivamyrmex sumichrasti — 有效字段 0；缺核心：summary, distribution
-- Ooceraea biroi — 有效字段 0；缺核心：summary, distribution
-- Parasyscia ganeshaiahi — 有效字段 0；缺核心：summary, distribution
-- Syscia typhla — 有效字段 0；缺核心：summary, distribution
-- Yunodorylus sexspinus — 有效字段 0；缺核心：summary, distribution
 
 ### Dolichoderinae · 臭蚁亚科
 
@@ -673,6 +642,10 @@
 - Pseudolasius silvestrii — 有效字段 0；缺核心：summary, distribution
 - Uwari keihitoi — 有效字段 0；缺核心：summary, distribution
 - 窄颈弓背蚁 · Camponotus angusticollis — 有效字段 1；缺核心：distribution
+
+### Dorylinae · 行军蚁亚科
+
+核心资料已覆盖。
 
 ### Myrmeciinae · 犬蚁亚科
 

@@ -1,581 +1,9 @@
 {
-  "generatedAt": "2026-08-17T02:59:14.053Z",
+  "generatedAt": "2026-08-17T03:02:12.903Z",
   "totalSpecies": 732,
-  "verifiedRecords": 69,
+  "verifiedRecords": 97,
   "conflicts": [],
   "subfamilies": [
-    {
-      "subfamily": "Dorylinae",
-      "subfamilyZh": "行军蚁亚科",
-      "total": 28,
-      "withAny": 0,
-      "withCore": 0,
-      "withDetail": 0,
-      "empty": 28,
-      "species": [
-        {
-          "sci": "Aenictus artipus",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus ceylonicus",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus fuchuanensis",
-          "zh": "富川双节行军蚁",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus gutianshanensis",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus hodgsoni",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus hoelldobleri",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus laeviceps",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus paradentatus",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus thailandianus",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus wudangshanensis",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Aenictus yangi",
-          "zh": "",
-          "genus": "Aenictus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Cerapachys sulcinodis",
-          "zh": "槽结粗角蚁",
-          "genus": "Cerapachys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Chrysapace costatus",
-          "zh": "棱纹克雷蚁",
-          "genus": "Chrysapace",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Cylindromyrmex whymperi",
-          "zh": "温氏柱蚁",
-          "genus": "Cylindromyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dorylus nigricans",
-          "zh": "",
-          "genus": "Dorylus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dorylus orientalis",
-          "zh": "",
-          "genus": "Dorylus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dorylus wilverthi",
-          "zh": "",
-          "genus": "Dorylus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Eciton burchellii",
-          "zh": "布氏游蚁",
-          "genus": "Eciton",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Eciton hamatum",
-          "zh": "",
-          "genus": "Eciton",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Labidus coecus",
-          "zh": "盲钳蚁",
-          "genus": "Labidus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Labidus praedator",
-          "zh": "掠夺钳蚁",
-          "genus": "Labidus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neivamyrmex nigrescens",
-          "zh": "黑内瓦蚁",
-          "genus": "Neivamyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neivamyrmex pilosus",
-          "zh": "毛内瓦蚁",
-          "genus": "Neivamyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neivamyrmex sumichrasti",
-          "zh": "苏氏内瓦蚁",
-          "genus": "Neivamyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ooceraea biroi",
-          "zh": "",
-          "genus": "Ooceraea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Parasyscia ganeshaiahi",
-          "zh": "",
-          "genus": "Parasyscia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Syscia typhla",
-          "zh": "",
-          "genus": "Syscia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Yunodorylus sexspinus",
-          "zh": "",
-          "genus": "Yunodorylus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 0
-    },
     {
       "subfamily": "Dolichoderinae",
       "subfamilyZh": "臭蚁亚科",
@@ -13250,6 +12678,432 @@
         }
       ],
       "completeness": 5.3
+    },
+    {
+      "subfamily": "Dorylinae",
+      "subfamilyZh": "行军蚁亚科",
+      "total": 28,
+      "withAny": 28,
+      "withCore": 28,
+      "withDetail": 22,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Dorylus orientalis",
+          "zh": "",
+          "genus": "Dorylus",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dorylus wilverthi",
+          "zh": "",
+          "genus": "Dorylus",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Neivamyrmex pilosus",
+          "zh": "毛内瓦蚁",
+          "genus": "Neivamyrmex",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Parasyscia ganeshaiahi",
+          "zh": "",
+          "genus": "Parasyscia",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus ceylonicus",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dorylus nigricans",
+          "zh": "",
+          "genus": "Dorylus",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Neivamyrmex nigrescens",
+          "zh": "黑内瓦蚁",
+          "genus": "Neivamyrmex",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Syscia typhla",
+          "zh": "",
+          "genus": "Syscia",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus paradentatus",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus wudangshanensis",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Neivamyrmex sumichrasti",
+          "zh": "苏氏内瓦蚁",
+          "genus": "Neivamyrmex",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus artipus",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus fuchuanensis",
+          "zh": "富川双节行军蚁",
+          "genus": "Aenictus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus gutianshanensis",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus thailandianus",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus yangi",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Cerapachys sulcinodis",
+          "zh": "槽结粗角蚁",
+          "genus": "Cerapachys",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Chrysapace costatus",
+          "zh": "棱纹克雷蚁",
+          "genus": "Chrysapace",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Cylindromyrmex whymperi",
+          "zh": "温氏柱蚁",
+          "genus": "Cylindromyrmex",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Eciton burchellii",
+          "zh": "布氏游蚁",
+          "genus": "Eciton",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Eciton hamatum",
+          "zh": "",
+          "genus": "Eciton",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Labidus praedator",
+          "zh": "掠夺钳蚁",
+          "genus": "Labidus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Yunodorylus sexspinus",
+          "zh": "",
+          "genus": "Yunodorylus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus hodgsoni",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus hoelldobleri",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Aenictus laeviceps",
+          "zh": "",
+          "genus": "Aenictus",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Labidus coecus",
+          "zh": "盲钳蚁",
+          "genus": "Labidus",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Ooceraea biroi",
+          "zh": "",
+          "genus": "Ooceraea",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "flight"
+          ]
+        }
+      ],
+      "completeness": 100
     },
     {
       "subfamily": "Myrmeciinae",
