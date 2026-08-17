@@ -1,14 +1,14 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:09:26.402Z
+生成时间：2026-08-17T03:11:58.575Z
 
-总物种：**732**；已有 verified/rich 记录：**135**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**148**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
+| Ponerinae · 猛蚁亚科 | 68 | 16 | 15 | 12 | 52 | 22.1% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
@@ -20,75 +20,6 @@
 | Paraponerinae · 近猛蚁亚科 | 1 | 1 | 1 | 1 | 0 | 100% |
 
 ## 每个亚科优先补齐名单
-
-### Ponerinae · 猛蚁亚科
-
-- 格拉夫钩猛蚁 · Anochetus graeffei — 有效字段 0；缺核心：summary, distribution
-- Anochetus mixtus — 有效字段 0；缺核心：summary, distribution
-- Anochetus myops — 有效字段 0；缺核心：summary, distribution
-- 里氏钩猛蚁 · Anochetus risii — 有效字段 0；缺核心：summary, distribution
-- 粗糙钩猛蚁 · Anochetus rugosus — 有效字段 0；缺核心：summary, distribution
-- 小眼钩猛蚁 · Anochetus subcoecus — 有效字段 0；缺核心：summary, distribution
-- 中华短猛蚁 · Brachyponera chinensis — 有效字段 0；缺核心：summary, distribution
-- Brachyponera luteipes — 有效字段 0；缺核心：summary, distribution
-- Buniapone amblyops — 有效字段 0；缺核心：summary, distribution
-- 费氏中盲猛蚁 · Centromyrmex feae — 有效字段 0；缺核心：summary, distribution
-- 马格达雷纳双刺猛蚁 · Diacamma magdalenae — 有效字段 0；缺核心：summary, distribution
-- 聚纹双刺猛蚁 · Diacamma rugosum — 有效字段 0；缺核心：summary, distribution
-- 四头恐蚁 · Dinoponera quadriceps — 有效字段 0；缺核心：summary, distribution
-- 安南扁头猛蚁 · Ectomomyrmex annamitus — 有效字段 0；缺核心：summary, distribution
-- 爪哇扁头猛蚁 · Ectomomyrmex javanus — 有效字段 0；缺核心：summary, distribution
-- Ectomomyrmex leeuwenhoeki — 有效字段 0；缺核心：summary, distribution
-- 片突扁头猛蚁 · Ectomomyrmex lobocarenus — 有效字段 0；缺核心：summary, distribution
-- Ectomomyrmex pylor — 有效字段 0；缺核心：summary, distribution
-- 邵氏扁头猛蚁 · Ectomomyrmex sauteri — 有效字段 0；缺核心：summary, distribution
-- 郑氏扁头猛蚁 · Ectomomyrmex zhengi — 有效字段 0；缺核心：summary, distribution
-- Emeryopone melaina — 有效字段 0；缺核心：summary, distribution
-- Hypoponera nippona — 有效字段 0；缺核心：summary, distribution
-- Hypoponera sauteri — 有效字段 0；缺核心：summary, distribution
-- Hypoponera truncata — 有效字段 0；缺核心：summary, distribution
-- Leptogenys binghamii — 有效字段 0；缺核心：summary, distribution
-- 缅甸细颚猛蚁 · Leptogenys birmana — 有效字段 0；缺核心：summary, distribution
-- 婆罗洲细颚猛蚁 · Leptogenys borneensis — 有效字段 0；缺核心：summary, distribution
-- Leptogenys chinensis — 有效字段 0；缺核心：summary, distribution
-- Leptogenys crassicornis — 有效字段 0；缺核心：summary, distribution
-- Leptogenys diminuta — 有效字段 0；缺核心：summary, distribution
-- 家细颚猛蚁 · Leptogenys famelica — 有效字段 0；缺核心：summary, distribution
-- 基氏细颚猛蚁 · Leptogenys kitteli — 有效字段 0；缺核心：summary, distribution
-- Leptogenys lucidula — 有效字段 0；缺核心：summary, distribution
-- Leptogenys mengzii — 有效字段 0；缺核心：summary, distribution
-- Leptogenys peuqueti — 有效字段 0；缺核心：summary, distribution
-- Myopias hania — 有效字段 0；缺核心：summary, distribution
-- 铜绿新猛蚁 · Neoponera aenescens — 有效字段 0；缺核心：summary, distribution
-- 棱胸新猛蚁 · Neoponera carinulata — 有效字段 0；缺核心：summary, distribution
-- 沟额新猛蚁 · Neoponera crenata — 有效字段 0；缺核心：summary, distribution
-- 亮毛新猛蚁 · Neoponera villosa — 有效字段 0；缺核心：summary, distribution
-- Odontomachus aciculatus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus affinis — 有效字段 0；缺核心：summary, distribution
-- Odontomachus angulatus — 有效字段 0；缺核心：summary, distribution
-- 鲍氏大齿猛蚁 · Odontomachus bauri — 有效字段 0；缺核心：summary, distribution
-- Odontomachus brunneus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus chelifer — 有效字段 0；缺核心：summary, distribution
-- Odontomachus circulus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus coquereli — 有效字段 0；缺核心：summary, distribution
-- 赤头大齿猛蚁 · Odontomachus erythrocephalus — 有效字段 0；缺核心：summary, distribution
-- 光亮大齿猛蚁 · Odontomachus fulgidus — 有效字段 0；缺核心：summary, distribution
-- 粒纹大齿猛蚁 · Odontomachus granatus — 有效字段 0；缺核心：summary, distribution
-- 血色大齿猛蚁 · Odontomachus haematodus — 有效字段 0；缺核心：summary, distribution
-- 矛大齿猛蚁 · Odontomachus hastatus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus kuroiwae — 有效字段 0；缺核心：summary, distribution
-- Odontomachus malignus — 有效字段 0；缺核心：summary, distribution
-- 山大齿猛蚁 · Odontomachus monticola — 有效字段 0；缺核心：summary, distribution
-- 争吵大齿猛蚁 · Odontomachus rixosus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus tensus — 有效字段 0；缺核心：summary, distribution
-- 齿唇齿猛蚁 · Odontoponera denticulata — 有效字段 0；缺核心：summary, distribution
-- 钩厚结猛蚁 · Pachycondyla harpax — 有效字段 0；缺核心：summary, distribution
-- 紫厚结猛蚁 · Pachycondyla purpurascens — 有效字段 0；缺核心：summary, distribution
-- Ponera menglana — 有效字段 0；缺核心：summary, distribution
-- Ponera nangongshana — 有效字段 0；缺核心：summary, distribution
-- Ponera pianmana — 有效字段 0；缺核心：summary, distribution
-- 三齿修猛蚁 · Pseudoneoponera tridentata — 有效字段 0；缺核心：summary, distribution
-- 敏捷扁头猛蚁 · Ectomomyrmex astutus — 有效字段 1；缺核心：distribution
 
 ### Myrmicinae · 切叶蚁亚科
 
@@ -601,6 +532,62 @@
 - Pseudolasius silvestrii — 有效字段 0；缺核心：summary, distribution
 - Uwari keihitoi — 有效字段 0；缺核心：summary, distribution
 - 窄颈弓背蚁 · Camponotus angusticollis — 有效字段 1；缺核心：distribution
+
+### Ponerinae · 猛蚁亚科
+
+- 安南扁头猛蚁 · Ectomomyrmex annamitus — 有效字段 0；缺核心：summary, distribution
+- 爪哇扁头猛蚁 · Ectomomyrmex javanus — 有效字段 0；缺核心：summary, distribution
+- Ectomomyrmex leeuwenhoeki — 有效字段 0；缺核心：summary, distribution
+- 片突扁头猛蚁 · Ectomomyrmex lobocarenus — 有效字段 0；缺核心：summary, distribution
+- Ectomomyrmex pylor — 有效字段 0；缺核心：summary, distribution
+- 邵氏扁头猛蚁 · Ectomomyrmex sauteri — 有效字段 0；缺核心：summary, distribution
+- 郑氏扁头猛蚁 · Ectomomyrmex zhengi — 有效字段 0；缺核心：summary, distribution
+- Emeryopone melaina — 有效字段 0；缺核心：summary, distribution
+- Hypoponera nippona — 有效字段 0；缺核心：summary, distribution
+- Hypoponera sauteri — 有效字段 0；缺核心：summary, distribution
+- Hypoponera truncata — 有效字段 0；缺核心：summary, distribution
+- Leptogenys binghamii — 有效字段 0；缺核心：summary, distribution
+- 缅甸细颚猛蚁 · Leptogenys birmana — 有效字段 0；缺核心：summary, distribution
+- 婆罗洲细颚猛蚁 · Leptogenys borneensis — 有效字段 0；缺核心：summary, distribution
+- Leptogenys chinensis — 有效字段 0；缺核心：summary, distribution
+- Leptogenys crassicornis — 有效字段 0；缺核心：summary, distribution
+- Leptogenys diminuta — 有效字段 0；缺核心：summary, distribution
+- 家细颚猛蚁 · Leptogenys famelica — 有效字段 0；缺核心：summary, distribution
+- 基氏细颚猛蚁 · Leptogenys kitteli — 有效字段 0；缺核心：summary, distribution
+- Leptogenys lucidula — 有效字段 0；缺核心：summary, distribution
+- Leptogenys mengzii — 有效字段 0；缺核心：summary, distribution
+- Leptogenys peuqueti — 有效字段 0；缺核心：summary, distribution
+- Myopias hania — 有效字段 0；缺核心：summary, distribution
+- 铜绿新猛蚁 · Neoponera aenescens — 有效字段 0；缺核心：summary, distribution
+- 棱胸新猛蚁 · Neoponera carinulata — 有效字段 0；缺核心：summary, distribution
+- 沟额新猛蚁 · Neoponera crenata — 有效字段 0；缺核心：summary, distribution
+- 亮毛新猛蚁 · Neoponera villosa — 有效字段 0；缺核心：summary, distribution
+- Odontomachus aciculatus — 有效字段 0；缺核心：summary, distribution
+- Odontomachus affinis — 有效字段 0；缺核心：summary, distribution
+- Odontomachus angulatus — 有效字段 0；缺核心：summary, distribution
+- 鲍氏大齿猛蚁 · Odontomachus bauri — 有效字段 0；缺核心：summary, distribution
+- Odontomachus brunneus — 有效字段 0；缺核心：summary, distribution
+- Odontomachus chelifer — 有效字段 0；缺核心：summary, distribution
+- Odontomachus circulus — 有效字段 0；缺核心：summary, distribution
+- Odontomachus coquereli — 有效字段 0；缺核心：summary, distribution
+- 赤头大齿猛蚁 · Odontomachus erythrocephalus — 有效字段 0；缺核心：summary, distribution
+- 光亮大齿猛蚁 · Odontomachus fulgidus — 有效字段 0；缺核心：summary, distribution
+- 粒纹大齿猛蚁 · Odontomachus granatus — 有效字段 0；缺核心：summary, distribution
+- 血色大齿猛蚁 · Odontomachus haematodus — 有效字段 0；缺核心：summary, distribution
+- 矛大齿猛蚁 · Odontomachus hastatus — 有效字段 0；缺核心：summary, distribution
+- Odontomachus kuroiwae — 有效字段 0；缺核心：summary, distribution
+- Odontomachus malignus — 有效字段 0；缺核心：summary, distribution
+- 山大齿猛蚁 · Odontomachus monticola — 有效字段 0；缺核心：summary, distribution
+- 争吵大齿猛蚁 · Odontomachus rixosus — 有效字段 0；缺核心：summary, distribution
+- Odontomachus tensus — 有效字段 0；缺核心：summary, distribution
+- 齿唇齿猛蚁 · Odontoponera denticulata — 有效字段 0；缺核心：summary, distribution
+- 钩厚结猛蚁 · Pachycondyla harpax — 有效字段 0；缺核心：summary, distribution
+- 紫厚结猛蚁 · Pachycondyla purpurascens — 有效字段 0；缺核心：summary, distribution
+- Ponera menglana — 有效字段 0；缺核心：summary, distribution
+- Ponera nangongshana — 有效字段 0；缺核心：summary, distribution
+- Ponera pianmana — 有效字段 0；缺核心：summary, distribution
+- 三齿修猛蚁 · Pseudoneoponera tridentata — 有效字段 0；缺核心：summary, distribution
+- 敏捷扁头猛蚁 · Ectomomyrmex astutus — 有效字段 1；缺核心：distribution
 
 ### Dolichoderinae · 臭蚁亚科
 

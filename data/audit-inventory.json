@@ -1,1371 +1,9 @@
 {
-  "generatedAt": "2026-08-17T03:09:26.402Z",
+  "generatedAt": "2026-08-17T03:11:58.575Z",
   "totalSpecies": 732,
-  "verifiedRecords": 135,
+  "verifiedRecords": 148,
   "conflicts": [],
   "subfamilies": [
-    {
-      "subfamily": "Ponerinae",
-      "subfamilyZh": "猛蚁亚科",
-      "total": 68,
-      "withAny": 3,
-      "withCore": 2,
-      "withDetail": 1,
-      "empty": 65,
-      "species": [
-        {
-          "sci": "Anochetus graeffei",
-          "zh": "格拉夫钩猛蚁",
-          "genus": "Anochetus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Anochetus mixtus",
-          "zh": "",
-          "genus": "Anochetus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Anochetus myops",
-          "zh": "",
-          "genus": "Anochetus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Anochetus risii",
-          "zh": "里氏钩猛蚁",
-          "genus": "Anochetus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Anochetus rugosus",
-          "zh": "粗糙钩猛蚁",
-          "genus": "Anochetus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Anochetus subcoecus",
-          "zh": "小眼钩猛蚁",
-          "genus": "Anochetus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Brachyponera chinensis",
-          "zh": "中华短猛蚁",
-          "genus": "Brachyponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Brachyponera luteipes",
-          "zh": "",
-          "genus": "Brachyponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Buniapone amblyops",
-          "zh": "",
-          "genus": "Buniapone",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Centromyrmex feae",
-          "zh": "费氏中盲猛蚁",
-          "genus": "Centromyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Diacamma magdalenae",
-          "zh": "马格达雷纳双刺猛蚁",
-          "genus": "Diacamma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Diacamma rugosum",
-          "zh": "聚纹双刺猛蚁",
-          "genus": "Diacamma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dinoponera quadriceps",
-          "zh": "四头恐蚁",
-          "genus": "Dinoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex annamitus",
-          "zh": "安南扁头猛蚁",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex javanus",
-          "zh": "爪哇扁头猛蚁",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex leeuwenhoeki",
-          "zh": "",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex lobocarenus",
-          "zh": "片突扁头猛蚁",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex pylor",
-          "zh": "",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex sauteri",
-          "zh": "邵氏扁头猛蚁",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex zhengi",
-          "zh": "郑氏扁头猛蚁",
-          "genus": "Ectomomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Emeryopone melaina",
-          "zh": "",
-          "genus": "Emeryopone",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Hypoponera nippona",
-          "zh": "",
-          "genus": "Hypoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Hypoponera sauteri",
-          "zh": "",
-          "genus": "Hypoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Hypoponera truncata",
-          "zh": "",
-          "genus": "Hypoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys binghamii",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys birmana",
-          "zh": "缅甸细颚猛蚁",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys borneensis",
-          "zh": "婆罗洲细颚猛蚁",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys chinensis",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys crassicornis",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys diminuta",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys famelica",
-          "zh": "家细颚猛蚁",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys kitteli",
-          "zh": "基氏细颚猛蚁",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys lucidula",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys mengzii",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptogenys peuqueti",
-          "zh": "",
-          "genus": "Leptogenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myopias hania",
-          "zh": "",
-          "genus": "Myopias",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neoponera aenescens",
-          "zh": "铜绿新猛蚁",
-          "genus": "Neoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neoponera carinulata",
-          "zh": "棱胸新猛蚁",
-          "genus": "Neoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neoponera crenata",
-          "zh": "沟额新猛蚁",
-          "genus": "Neoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Neoponera villosa",
-          "zh": "亮毛新猛蚁",
-          "genus": "Neoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus aciculatus",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus affinis",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus angulatus",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus bauri",
-          "zh": "鲍氏大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus brunneus",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus chelifer",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus circulus",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus coquereli",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus erythrocephalus",
-          "zh": "赤头大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus fulgidus",
-          "zh": "光亮大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus granatus",
-          "zh": "粒纹大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus haematodus",
-          "zh": "血色大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus hastatus",
-          "zh": "矛大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus kuroiwae",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus malignus",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus monticola",
-          "zh": "山大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus rixosus",
-          "zh": "争吵大齿猛蚁",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontomachus tensus",
-          "zh": "",
-          "genus": "Odontomachus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Odontoponera denticulata",
-          "zh": "齿唇齿猛蚁",
-          "genus": "Odontoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pachycondyla harpax",
-          "zh": "钩厚结猛蚁",
-          "genus": "Pachycondyla",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pachycondyla purpurascens",
-          "zh": "紫厚结猛蚁",
-          "genus": "Pachycondyla",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ponera menglana",
-          "zh": "",
-          "genus": "Ponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ponera nangongshana",
-          "zh": "",
-          "genus": "Ponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ponera pianmana",
-          "zh": "",
-          "genus": "Ponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pseudoneoponera tridentata",
-          "zh": "三齿修猛蚁",
-          "genus": "Pseudoneoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ectomomyrmex astutus",
-          "zh": "敏捷扁头猛蚁",
-          "genus": "Ectomomyrmex",
-          "factCount": 1,
-          "missingCore": [
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pseudoneoponera rufipes",
-          "zh": "红足修猛蚁",
-          "genus": "Pseudoneoponera",
-          "factCount": 5,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Harpegnathos venator",
-          "zh": "猎镰猛蚁",
-          "genus": "Harpegnathos",
-          "factCount": 10,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 2.9
-    },
     {
       "subfamily": "Myrmicinae",
       "subfamilyZh": "切叶蚁亚科",
@@ -11891,6 +10529,1295 @@
         }
       ],
       "completeness": 5.3
+    },
+    {
+      "subfamily": "Ponerinae",
+      "subfamilyZh": "猛蚁亚科",
+      "total": 68,
+      "withAny": 16,
+      "withCore": 15,
+      "withDetail": 12,
+      "empty": 52,
+      "species": [
+        {
+          "sci": "Ectomomyrmex annamitus",
+          "zh": "安南扁头猛蚁",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex javanus",
+          "zh": "爪哇扁头猛蚁",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex leeuwenhoeki",
+          "zh": "",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex lobocarenus",
+          "zh": "片突扁头猛蚁",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex pylor",
+          "zh": "",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex sauteri",
+          "zh": "邵氏扁头猛蚁",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex zhengi",
+          "zh": "郑氏扁头猛蚁",
+          "genus": "Ectomomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Emeryopone melaina",
+          "zh": "",
+          "genus": "Emeryopone",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Hypoponera nippona",
+          "zh": "",
+          "genus": "Hypoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Hypoponera sauteri",
+          "zh": "",
+          "genus": "Hypoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Hypoponera truncata",
+          "zh": "",
+          "genus": "Hypoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys binghamii",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys birmana",
+          "zh": "缅甸细颚猛蚁",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys borneensis",
+          "zh": "婆罗洲细颚猛蚁",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys chinensis",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys crassicornis",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys diminuta",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys famelica",
+          "zh": "家细颚猛蚁",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys kitteli",
+          "zh": "基氏细颚猛蚁",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys lucidula",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys mengzii",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Leptogenys peuqueti",
+          "zh": "",
+          "genus": "Leptogenys",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Myopias hania",
+          "zh": "",
+          "genus": "Myopias",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Neoponera aenescens",
+          "zh": "铜绿新猛蚁",
+          "genus": "Neoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Neoponera carinulata",
+          "zh": "棱胸新猛蚁",
+          "genus": "Neoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Neoponera crenata",
+          "zh": "沟额新猛蚁",
+          "genus": "Neoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Neoponera villosa",
+          "zh": "亮毛新猛蚁",
+          "genus": "Neoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus aciculatus",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus affinis",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus angulatus",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus bauri",
+          "zh": "鲍氏大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus brunneus",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus chelifer",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus circulus",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus coquereli",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus erythrocephalus",
+          "zh": "赤头大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus fulgidus",
+          "zh": "光亮大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus granatus",
+          "zh": "粒纹大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus haematodus",
+          "zh": "血色大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus hastatus",
+          "zh": "矛大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus kuroiwae",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus malignus",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus monticola",
+          "zh": "山大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus rixosus",
+          "zh": "争吵大齿猛蚁",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontomachus tensus",
+          "zh": "",
+          "genus": "Odontomachus",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Odontoponera denticulata",
+          "zh": "齿唇齿猛蚁",
+          "genus": "Odontoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pachycondyla harpax",
+          "zh": "钩厚结猛蚁",
+          "genus": "Pachycondyla",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pachycondyla purpurascens",
+          "zh": "紫厚结猛蚁",
+          "genus": "Pachycondyla",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ponera menglana",
+          "zh": "",
+          "genus": "Ponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ponera nangongshana",
+          "zh": "",
+          "genus": "Ponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ponera pianmana",
+          "zh": "",
+          "genus": "Ponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pseudoneoponera tridentata",
+          "zh": "三齿修猛蚁",
+          "genus": "Pseudoneoponera",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Ectomomyrmex astutus",
+          "zh": "敏捷扁头猛蚁",
+          "genus": "Ectomomyrmex",
+          "factCount": 1,
+          "missingCore": [
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Anochetus myops",
+          "zh": "",
+          "genus": "Anochetus",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Anochetus rugosus",
+          "zh": "粗糙钩猛蚁",
+          "genus": "Anochetus",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Anochetus risii",
+          "zh": "里氏钩猛蚁",
+          "genus": "Anochetus",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Diacamma magdalenae",
+          "zh": "马格达雷纳双刺猛蚁",
+          "genus": "Diacamma",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Pseudoneoponera rufipes",
+          "zh": "红足修猛蚁",
+          "genus": "Pseudoneoponera",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Anochetus graeffei",
+          "zh": "格拉夫钩猛蚁",
+          "genus": "Anochetus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Anochetus mixtus",
+          "zh": "",
+          "genus": "Anochetus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Anochetus subcoecus",
+          "zh": "小眼钩猛蚁",
+          "genus": "Anochetus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Brachyponera luteipes",
+          "zh": "",
+          "genus": "Brachyponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Centromyrmex feae",
+          "zh": "费氏中盲猛蚁",
+          "genus": "Centromyrmex",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Buniapone amblyops",
+          "zh": "",
+          "genus": "Buniapone",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Diacamma rugosum",
+          "zh": "聚纹双刺猛蚁",
+          "genus": "Diacamma",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "nest",
+            "diet",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Brachyponera chinensis",
+          "zh": "中华短猛蚁",
+          "genus": "Brachyponera",
+          "factCount": 9,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dinoponera quadriceps",
+          "zh": "四头恐蚁",
+          "genus": "Dinoponera",
+          "factCount": 9,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Harpegnathos venator",
+          "zh": "猎镰猛蚁",
+          "genus": "Harpegnathos",
+          "factCount": 10,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        }
+      ],
+      "completeness": 22.1
     },
     {
       "subfamily": "Dolichoderinae",
