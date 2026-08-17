@@ -1,0 +1,25 @@
+{
+  "batchId": "verified-batch-01-20260817",
+  "reviewedAt": "2026-08-17",
+  "records": [
+    {"species":"Myrmecia acuta","source":"AntWiki","fields":["summary","distribution","identification","nomenclature"]},
+    {"species":"Myrmecia analis","source":"AntWiki","fields":["summary","distribution","worker","identification","ecology","nomenclature"]},
+    {"species":"Myrmecia comata","source":"AntWiki","fields":["summary","distribution","nomenclature"]},
+    {"species":"Myrmecia desertorum","source":"AntWiki","fields":["summary","distribution","habitat","identification","ecology","nomenclature"]},
+    {"species":"Myrmecia esuriens","source":"AntWiki; Museums Victoria","fields":["summary","distribution","nomenclature"]},
+    {"species":"Myrmecia flammicollis","source":"AntWiki","fields":["summary","distribution","nomenclature"]},
+    {"species":"Myrmecia flavicoma","source":"AntWiki","fields":["summary","distribution","nomenclature"]},
+    {"species":"Myrmecia forceps","source":"AntWiki","fields":["summary","distribution","nomenclature"]},
+    {"species":"Atta cephalotes","source":"AntWiki; AntWiki CasteTraits","fields":["summary","distribution","habitat","identification","ecology","nomenclature"]},
+    {"species":"Atta sexdens","source":"AntWiki","fields":["summary","distribution","ecology","nomenclature"]},
+    {"species":"Atta laevigata","source":"AntWiki","fields":["summary","distribution","ecology","nomenclature"]},
+    {"species":"Acromyrmex rugosus","source":"AntWiki","fields":["summary","distribution","habitat","ecology","nomenclature"]}
+  ],
+  "guardrails": [
+    "Base compressed database unchanged",
+    "Existing non-empty verified fields preserved",
+    "Conflicts logged instead of overwritten",
+    "Placeholder/template strings treated as empty",
+    "No species-level temperature/humidity imported without species-level evidence"
+  ]
+}
