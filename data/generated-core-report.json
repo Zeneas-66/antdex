@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-08-17T03:25:17.785Z",
+  "generatedAt": "2026-08-17T03:26:22.520Z",
+  "source": "AntWeb curated Geolocale/Taxon lists",
   "targetCount": 506,
   "generated": 0,
   "failed": [
-    {
-      "sci": "Acromyrmex disciger",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex octospinosus",
-      "reason": "HTTP 403"
-    },
     {
       "sci": "Acromyrmex landolti",
       "reason": "HTTP 403"
@@ -21,6 +14,14 @@
     },
     {
       "sci": "Acromyrmex nigrosetosus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Acromyrmex octospinosus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Acromyrmex disciger",
       "reason": "HTTP 403"
     },
     {
@@ -36,7 +37,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Acropyga nipponensis",
+      "sci": "Aphaenogaster caeciliae",
       "reason": "HTTP 403"
     },
     {
@@ -44,7 +45,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Aphaenogaster caeciliae",
+      "sci": "Acropyga nipponensis",
       "reason": "HTTP 403"
     },
     {
@@ -60,19 +61,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Aphaenogaster geei",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Aphaenogaster japonica",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Aphaenogaster smythiesii",
+      "sci": "Aphaenogaster tibetana",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Aphaenogaster tibetana",
+      "sci": "Aphaenogaster geei",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Aphaenogaster smythiesii",
       "reason": "HTTP 403"
     },
     {
@@ -84,11 +85,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Atta insularis",
+      "sci": "Atta colombica",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Atta colombica",
+      "sci": "Atta insularis",
       "reason": "HTTP 403"
     },
     {
@@ -104,19 +105,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Atta robusta",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Atta texana",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotites shanwangensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Calyptomyrmex rectopilosus",
+      "sci": "Atta robusta",
       "reason": "HTTP 403"
     },
     {
@@ -124,19 +117,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus absquatulator",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus altivagans",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus albosparsus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus aeneopilosus",
+      "sci": "Calyptomyrmex rectopilosus",
       "reason": "HTTP 403"
     },
     {
@@ -144,7 +125,27 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotites shanwangensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus absquatulator",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus albipes",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus aeneopilosus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus albosparsus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus altivagans",
       "reason": "HTTP 403"
     },
     {
@@ -153,10 +154,6 @@
     },
     {
       "sci": "Camponotus anthrax",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus atriceps",
       "reason": "HTTP 403"
     },
     {
@@ -172,11 +169,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus aurocinctus",
+      "sci": "Camponotus atriceps",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus barbatus",
+      "sci": "Camponotus aurocinctus",
       "reason": "HTTP 403"
     },
     {
@@ -184,19 +181,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus barbatus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus bishamon",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus buddhae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus castaneus",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Camponotus caryae",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus buddhae",
       "reason": "HTTP 403"
     },
     {
@@ -208,6 +205,14 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus castaneus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus cingulatus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus cinctellus",
       "reason": "HTTP 403"
     },
@@ -216,19 +221,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus cingulatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus clarior",
+      "sci": "Camponotus compressus",
       "reason": "HTTP 403"
     },
     {
       "sci": "Camponotus clarithorax",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus compressus",
       "reason": "HTTP 403"
     },
     {
@@ -240,7 +237,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus cuauhtemoc",
+      "sci": "Camponotus daitoensis",
       "reason": "HTTP 403"
     },
     {
@@ -248,7 +245,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus daitoensis",
+      "sci": "Camponotus cuauhtemoc",
       "reason": "HTTP 403"
     },
     {
@@ -256,7 +253,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus clarior",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus discolor",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus dryandrae",
       "reason": "HTTP 403"
     },
     {
@@ -268,23 +273,23 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus dumetorum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus eastwoodi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus dryandrae",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Camponotus elegans",
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus dumetorum",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus empedocles",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus ephippium",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus eastwoodi",
       "reason": "HTTP 403"
     },
     {
@@ -296,23 +301,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus empedocles",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus irritabilis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus intrepidus",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Camponotus friedae",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus lasiselene",
+      "sci": "Camponotus intrepidus",
       "reason": "HTTP 403"
     },
     {
@@ -324,7 +317,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus misturus",
+      "sci": "Camponotus irritabilis",
       "reason": "HTTP 403"
     },
     {
@@ -332,11 +325,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus lasiselene",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus lighti",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus novogranadensis",
+      "sci": "Camponotus misturus",
       "reason": "HTTP 403"
     },
     {
@@ -344,15 +341,11 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus novogranadensis",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus ocreatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus parius",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus planatus",
       "reason": "HTTP 403"
     },
     {
@@ -360,15 +353,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus pressipes errans",
+      "sci": "Camponotus planatus",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus quadrinotatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus pseudolendus",
+      "sci": "Camponotus parius",
       "reason": "HTTP 403"
     },
     {
@@ -376,7 +365,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus satan",
+      "sci": "Camponotus pressipes errans",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus pseudolendus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus quadrinotatus",
       "reason": "HTTP 403"
     },
     {
@@ -384,7 +381,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Camponotus turkestanicus",
+      "sci": "Camponotus vitiosus",
       "reason": "HTTP 403"
     },
     {
@@ -392,19 +389,23 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Camponotus satan",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus turkestanicus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Camponotus wasmanni",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Cardiocondyla tibetana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus vitiosus",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Camponotus yogi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Cardiocondyla tibetana",
       "reason": "HTTP 403"
     },
     {
@@ -416,23 +417,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Carebara lignata",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Carebara altinodus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Carebara obtusidenta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cataglyphis albicans",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Carebara vespillo",
       "reason": "HTTP 403"
     },
     {
@@ -440,7 +425,27 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Carebara obtusidenta",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Carebara lignata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Carebara vespillo",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Cataglyphis albicans",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Cataglyphis bombycina",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Cataglyphis savignyi",
       "reason": "HTTP 403"
     },
     {
@@ -448,7 +453,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Cataglyphis savignyi",
+      "sci": "Cataulacus marginatus",
       "reason": "HTTP 403"
     },
     {
@@ -457,14 +462,6 @@
     },
     {
       "sci": "Cataulacus granulatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cephalotes varians",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cataulacus marginatus",
       "reason": "HTTP 403"
     },
     {
@@ -480,19 +477,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster abdominalis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Colobopsis vitrea",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster abstinens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster acaciae",
+      "sci": "Cephalotes varians",
       "reason": "HTTP 403"
     },
     {
@@ -500,7 +485,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster acuta",
+      "sci": "Crematogaster abstinens",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster abdominalis",
       "reason": "HTTP 403"
     },
     {
@@ -508,11 +497,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster adrepens",
+      "sci": "Colobopsis vitrea",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster affabilis",
+      "sci": "Crematogaster acaciae",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster acuta",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster adrepens",
       "reason": "HTTP 403"
     },
     {
@@ -524,6 +521,10 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Crematogaster affabilis",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Crematogaster africana",
       "reason": "HTTP 403"
     },
@@ -532,11 +533,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Crematogaster algirica",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Crematogaster alluaudi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster algirica",
+      "sci": "Crematogaster ambigua",
       "reason": "HTTP 403"
     },
     {
@@ -544,7 +549,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster ambigua",
+      "sci": "Crematogaster ampullaris",
       "reason": "HTTP 403"
     },
     {
@@ -556,15 +561,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster ampullaris",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Crematogaster angulosa",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster californica",
       "reason": "HTTP 403"
     },
     {
@@ -576,15 +573,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster ferrarii",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Crematogaster egidyi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster matsumurai",
+      "sci": "Crematogaster californica",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster ferrarii",
       "reason": "HTTP 403"
     },
     {
@@ -592,7 +589,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Crematogaster nigropilosa",
+      "sci": "Crematogaster osakensis",
       "reason": "HTTP 403"
     },
     {
@@ -604,27 +601,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Crematogaster nigropilosa",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster matsumurai",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Crematogaster rogenhoferi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster osakensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster treubi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster rothneyi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster zoceensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Echinopla cherapunjiensis",
       "reason": "HTTP 403"
     },
     {
@@ -632,15 +617,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Echinopla angustata",
+      "sci": "Crematogaster treubi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Echinopla circulus",
+      "sci": "Crematogaster zoceensis",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Echinopla lineata",
+      "sci": "Crematogaster rothneyi",
       "reason": "HTTP 403"
     },
     {
@@ -648,7 +633,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Erromyrma latinodis",
+      "sci": "Echinopla angustata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Echinopla lineata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Echinopla cherapunjiensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Echinopla tritschleri",
       "reason": "HTTP 403"
     },
     {
@@ -656,7 +653,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Echinopla tritschleri",
+      "sci": "Echinopla circulus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Erromyrma latinodis",
       "reason": "HTTP 403"
     },
     {
@@ -676,11 +677,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Formica argentea",
+      "sci": "Formica archboldi",
       "reason": "HTTP 403"
     },
     {
       "sci": "Formica aserva",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Formica argentea",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Formica cinerea",
       "reason": "HTTP 403"
     },
     {
@@ -692,14 +701,6 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Formica cinerea",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica exsecta",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Formica clara",
       "reason": "HTTP 403"
     },
@@ -708,15 +709,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Formica francoeuri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica foreli",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica archboldi",
+      "sci": "Formica exsecta",
       "reason": "HTTP 403"
     },
     {
@@ -724,11 +717,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Formica fusca",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica glacialis",
+      "sci": "Formica foreli",
       "reason": "HTTP 403"
     },
     {
@@ -740,7 +729,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Formica fusca",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Formica francoeuri",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Formica gagatoides",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Formica glacialis",
       "reason": "HTTP 403"
     },
     {
@@ -760,11 +761,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Formica sinensis",
+      "sci": "Formica rufibarbis",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Formica rufibarbis",
+      "sci": "Formica sinensis",
       "reason": "HTTP 403"
     },
     {
@@ -776,6 +777,10 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Gaoligongidris planodorsa",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Formica tianshanica",
       "reason": "HTTP 403"
     },
@@ -784,23 +789,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Gaoligongidris planodorsa",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Gesomyrmex chaperi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Kartidris sparsipila",
+      "sci": "Gesomyrmex howardi",
       "reason": "HTTP 403"
     },
     {
       "sci": "Kartidris ashima",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Gesomyrmex howardi",
       "reason": "HTTP 403"
     },
     {
@@ -812,7 +809,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lasius arizonicus",
+      "sci": "Kartidris sparsipila",
       "reason": "HTTP 403"
     },
     {
@@ -820,11 +817,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lasius brunneus",
+      "sci": "Lasius balearicus",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lasius balearicus",
+      "sci": "Lasius arizonicus",
       "reason": "HTTP 403"
     },
     {
@@ -836,7 +833,23 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Lasius brunneus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Lasius californicus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius colei",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius chinensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius carniolicus",
       "reason": "HTTP 403"
     },
     {
@@ -845,18 +858,6 @@
     },
     {
       "sci": "Lasius claviger",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius colei",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius carniolicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius chinensis",
       "reason": "HTTP 403"
     },
     {
@@ -872,15 +873,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Lasius emarginatus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Lasius flavus",
       "reason": "HTTP 403"
     },
     {
       "sci": "Lasius japonicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius emarginatus",
       "reason": "HTTP 403"
     },
     {
@@ -896,15 +897,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lasius sichuensis",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Lasius niger",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lepisiota opaca",
+      "sci": "Lasius sichuensis",
       "reason": "HTTP 403"
     },
     {
@@ -916,11 +913,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lordomyrma bhutanensis",
+      "sci": "Lepisiota opaca",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Lordomyrma idianale",
+      "sci": "Lordomyrma bhutanensis",
       "reason": "HTTP 403"
     },
     {
@@ -928,7 +925,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Messor angularis",
+      "sci": "Lordomyrma idianale",
       "reason": "HTTP 403"
     },
     {
@@ -940,23 +937,11 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Messor angularis",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Messor bouvieri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor cephalotes",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor arenarius",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor decipiens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor desertora",
       "reason": "HTTP 403"
     },
     {
@@ -964,19 +949,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Messor desertus",
+      "sci": "Messor arenarius",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Messor ibericus",
+      "sci": "Messor cephalotes",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Messor himalayanus",
+      "sci": "Messor desertora",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Messor minor",
+      "sci": "Messor decipiens",
       "reason": "HTTP 403"
     },
     {
@@ -984,7 +969,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Messor structor",
+      "sci": "Messor desertus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Messor himalayanus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Messor ibericus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Messor minor",
       "reason": "HTTP 403"
     },
     {
@@ -993,6 +990,10 @@
     },
     {
       "sci": "Monomorium chinense",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Messor structor",
       "reason": "HTTP 403"
     },
     {
@@ -1012,15 +1013,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmecina guangxiensis",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Monomorium pharaonis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecina raviwonghei",
       "reason": "HTTP 403"
     },
     {
@@ -1028,7 +1021,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmecina striata",
+      "sci": "Myrmecina guangxiensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmecina raviwonghei",
       "reason": "HTTP 403"
     },
     {
@@ -1040,11 +1037,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmecina taiwana",
+      "sci": "Myrmecocystus melanoticus",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmecocystus melanoticus",
+      "sci": "Myrmecina striata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmecocystus navajo",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmecina taiwana",
       "reason": "HTTP 403"
     },
     {
@@ -1056,19 +1061,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmecocystus testaceus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus semirufus",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Myrmecocystus wheeleri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus navajo",
       "reason": "HTTP 403"
     },
     {
@@ -1080,15 +1073,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Myrmecocystus semirufus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmecocystus testaceus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Myrmica bactriana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica brevispinosa",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica draco",
       "reason": "HTTP 403"
     },
     {
@@ -1096,7 +1089,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Myrmica draco",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica brevispinosa",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Myrmica gebaueri",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica jessensis",
       "reason": "HTTP 403"
     },
     {
@@ -1104,7 +1109,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica jessensis",
+      "sci": "Myrmica koreana",
       "reason": "HTTP 403"
     },
     {
@@ -1116,11 +1121,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica koreana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica margaritae",
+      "sci": "Myrmica lonae",
       "reason": "HTTP 403"
     },
     {
@@ -1128,15 +1129,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica lonae",
+      "sci": "Myrmica margaritae",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica punctiventris",
+      "sci": "Myrmica phalacra",
       "reason": "HTTP 403"
     },
     {
       "sci": "Myrmica pleiorhytida",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica punctiventris",
       "reason": "HTTP 403"
     },
     {
@@ -1148,7 +1153,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica phalacra",
+      "sci": "Myrmica sabuleti",
       "reason": "HTTP 403"
     },
     {
@@ -1160,19 +1165,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica sabuleti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica schencki",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Myrmica sinensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica smythiesii",
       "reason": "HTTP 403"
     },
     {
@@ -1180,7 +1173,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmoteras cuneonodum",
+      "sci": "Myrmica schencki",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica smythiesii",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica titanica",
       "reason": "HTTP 403"
     },
     {
@@ -1188,11 +1189,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Novomessor cockerelli",
+      "sci": "Myrmoteras cuneonodum",
       "reason": "HTTP 403"
     },
     {
       "sci": "Nesomyrmex echinatinodis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Novomessor cockerelli",
       "reason": "HTTP 403"
     },
     {
@@ -1204,7 +1209,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Nylanderia integera",
+      "sci": "Nylanderia flavipes",
       "reason": "HTTP 403"
     },
     {
@@ -1212,11 +1217,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Myrmica titanica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia flavipes",
+      "sci": "Nylanderia integera",
       "reason": "HTTP 403"
     },
     {
@@ -1225,10 +1226,6 @@
     },
     {
       "sci": "Nylanderia sharpii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia taylori",
       "reason": "HTTP 403"
     },
     {
@@ -1244,15 +1241,11 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Nylanderia taylori",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Paraparatrechina sauteri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Perissomyrmex bidentatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Perissomyrmex fissus",
       "reason": "HTTP 403"
     },
     {
@@ -1260,7 +1253,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Perissomyrmex bidentatus",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Pheidole acutidens",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Perissomyrmex fissus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole barreleti",
       "reason": "HTTP 403"
     },
     {
@@ -1268,19 +1273,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole bicarinata",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Pheidole argentina",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole binghamii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole branstetteri",
+      "sci": "Pheidole bicarinata",
       "reason": "HTTP 403"
     },
     {
@@ -1288,7 +1285,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole barreleti",
+      "sci": "Pheidole binghamii",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole braueri",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole branstetteri",
       "reason": "HTTP 403"
     },
     {
@@ -1300,7 +1305,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole braueri",
+      "sci": "Pheidole bula",
       "reason": "HTTP 403"
     },
     {
@@ -1308,7 +1313,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole bula",
+      "sci": "Pheidole crassicornis",
       "reason": "HTTP 403"
     },
     {
@@ -1316,7 +1321,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole crassicornis",
+      "sci": "Pheidole ceylonica",
       "reason": "HTTP 403"
     },
     {
@@ -1324,7 +1329,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole ceylonica",
+      "sci": "Pheidole decepticon",
       "reason": "HTTP 403"
     },
     {
@@ -1332,15 +1337,11 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Pheidole dentigula",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Pheidole dentata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole decepticon",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole diffidens",
       "reason": "HTTP 403"
     },
     {
@@ -1348,11 +1349,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole elecebra",
+      "sci": "Pheidole diffidens",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole dentigula",
+      "sci": "Pheidole elecebra",
       "reason": "HTTP 403"
     },
     {
@@ -1360,15 +1361,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole epiphyta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole ernsti",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Pheidole eowilsoni",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole epiphyta",
       "reason": "HTTP 403"
     },
     {
@@ -1376,15 +1373,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole fervida",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Pheidole fossimandibula",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole gymnoceras",
+      "sci": "Pheidole ernsti",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole fervida",
       "reason": "HTTP 403"
     },
     {
@@ -1392,11 +1389,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole hongkongensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole hyatti",
+      "sci": "Pheidole gymnoceras",
       "reason": "HTTP 403"
     },
     {
@@ -1404,7 +1397,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Pheidole hongkongensis",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Pheidole magna",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole hyatti",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole parva",
       "reason": "HTTP 403"
     },
     {
@@ -1412,7 +1417,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole parva",
+      "sci": "Pheidole plagiaria",
       "reason": "HTTP 403"
     },
     {
@@ -1424,11 +1429,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole rabo",
+      "sci": "Pheidole radoszkowskii",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole plagiaria",
+      "sci": "Pheidole rabo",
       "reason": "HTTP 403"
     },
     {
@@ -1436,7 +1441,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole radoszkowskii",
+      "sci": "Pheidole rugithorax",
       "reason": "HTTP 403"
     },
     {
@@ -1444,11 +1449,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole smythiesii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole rugithorax",
+      "sci": "Pheidole sinica",
       "reason": "HTTP 403"
     },
     {
@@ -1456,27 +1457,11 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Pheidole smythiesii",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Pheidole tandjongensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole tumida",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole sinica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole vieti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole yeensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole vulgaris",
       "reason": "HTTP 403"
     },
     {
@@ -1484,11 +1469,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole vistana",
+      "sci": "Pheidole vieti",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pheidole watsoni",
+      "sci": "Pheidole tumida",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole vistana",
       "reason": "HTTP 403"
     },
     {
@@ -1500,11 +1489,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyergus samurai",
+      "sci": "Pheidole watsoni",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pogonomyrmex subnitidus",
+      "sci": "Pheidole yeensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole vulgaris",
       "reason": "HTTP 403"
     },
     {
@@ -1516,11 +1509,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis bihamata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis armata",
+      "sci": "Pogonomyrmex subnitidus",
       "reason": "HTTP 403"
     },
     {
@@ -1528,23 +1517,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Polyrhachis armata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis bihamata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyergus samurai",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Polyrhachis curvispina",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis bugnioni",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis convexa",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis dentihumera",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis dives",
       "reason": "HTTP 403"
     },
     {
@@ -1552,11 +1537,23 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis exercita",
+      "sci": "Polyrhachis bugnioni",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis gibbosa",
+      "sci": "Polyrhachis dentihumera",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis convexa",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis dives",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis exercita",
       "reason": "HTTP 403"
     },
     {
@@ -1564,7 +1561,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis hippomanes",
+      "sci": "Polyrhachis follicula",
       "reason": "HTTP 403"
     },
     {
@@ -1572,7 +1569,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis follicula",
+      "sci": "Polyrhachis halidayi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis gibbosa",
       "reason": "HTTP 403"
     },
     {
@@ -1580,11 +1581,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis halidayi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis latona",
+      "sci": "Polyrhachis hippomanes",
       "reason": "HTTP 403"
     },
     {
@@ -1592,7 +1589,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis proxima",
+      "sci": "Polyrhachis latona",
       "reason": "HTTP 403"
     },
     {
@@ -1600,11 +1597,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Polyrhachis proxima",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Polyrhachis rastellata",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis quadrispinosa",
+      "sci": "Polyrhachis shixingensis",
       "reason": "HTTP 403"
     },
     {
@@ -1612,7 +1613,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis shixingensis",
+      "sci": "Polyrhachis quadrispinosa",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis striata",
       "reason": "HTTP 403"
     },
     {
@@ -1624,7 +1629,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis tibialis",
+      "sci": "Prenolepis cyclopia",
       "reason": "HTTP 403"
     },
     {
@@ -1632,35 +1637,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Polyrhachis striata",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Polyrhachis vigilans",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis cyclopia",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis quinquedenta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis mediops",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis melanogaster",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis naoroji",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis shanialena",
       "reason": "HTTP 403"
     },
     {
@@ -1668,11 +1645,31 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Procryptocerus batesi",
+      "sci": "Prenolepis naoroji",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis tibialis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Prenolepis melanogaster",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Prenolepis mediops",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Prenolepis quinquedenta",
       "reason": "HTTP 403"
     },
     {
       "sci": "Pristomyrmex brevispinosus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Prenolepis shanialena",
       "reason": "HTTP 403"
     },
     {
@@ -1684,11 +1681,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Proformica mongolica",
+      "sci": "Procryptocerus batesi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pseudolasius cibdelus",
+      "sci": "Proformica mongolica",
       "reason": "HTTP 403"
     },
     {
@@ -1696,15 +1693,15 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Pseudolasius silvestrii",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Pseudolasius emeryi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Recurvidris recurvispinosa",
+      "sci": "Pseudolasius silvestrii",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pseudolasius cibdelus",
       "reason": "HTTP 403"
     },
     {
@@ -1712,7 +1709,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Solenopsis geminata",
+      "sci": "Recurvidris recurvispinosa",
       "reason": "HTTP 403"
     },
     {
@@ -1720,11 +1717,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Solenopsis jacoti",
+      "sci": "Solenopsis geminata",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Solenopsis molesta",
+      "sci": "Solenopsis jacoti",
       "reason": "HTTP 403"
     },
     {
@@ -1732,7 +1729,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Stenamma owstoni",
+      "sci": "Solenopsis molesta",
       "reason": "HTTP 403"
     },
     {
@@ -1752,11 +1749,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys abditivata",
+      "sci": "Stenamma owstoni",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys acheron",
+      "sci": "Strumigenys abditivata",
       "reason": "HTTP 403"
     },
     {
@@ -1764,15 +1761,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys alberti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys acubecca",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys anhdaoae",
+      "sci": "Strumigenys acheron",
       "reason": "HTTP 403"
     },
     {
@@ -1780,15 +1769,31 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys apalachicolensis",
+      "sci": "Strumigenys alberti",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys archboldi",
+      "sci": "Strumigenys anhdaoae",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys acubecca",
       "reason": "HTTP 403"
     },
     {
       "sci": "Strumigenys dohertyi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys apalachicolensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys dyschima",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys archboldi",
       "reason": "HTTP 403"
     },
     {
@@ -1800,27 +1805,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys exilirhina",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys dyschima",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys hirsuta",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Strumigenys feae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys kichijo",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys lewisi",
       "reason": "HTTP 403"
     },
     {
@@ -1828,7 +1813,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys nanzanensis",
+      "sci": "Strumigenys lewisi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys hirsuta",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys exilirhina",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys kichijo",
       "reason": "HTTP 403"
     },
     {
@@ -1836,7 +1833,15 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Strumigenys lyroessa",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Strumigenys mitis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys nanzanensis",
       "reason": "HTTP 403"
     },
     {
@@ -1844,11 +1849,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys lyroessa",
+      "sci": "Strumigenys nathistorisoc",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys nathistorisoc",
+      "sci": "Strumigenys nepalensis",
       "reason": "HTTP 403"
     },
     {
@@ -1860,19 +1865,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Strumigenys nepalensis",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Strumigenys sauteri",
       "reason": "HTTP 403"
     },
     {
       "sci": "Strumigenys strygax",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Temnothorax liviae",
       "reason": "HTTP 403"
     },
     {
@@ -1884,11 +1881,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Temnothorax xanthos",
+      "sci": "Temnothorax nassonovi",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Temnothorax nassonovi",
+      "sci": "Temnothorax liviae",
       "reason": "HTTP 403"
     },
     {
@@ -1900,11 +1897,19 @@
       "reason": "HTTP 403"
     },
     {
+      "sci": "Tetramorium atratulum",
+      "reason": "HTTP 403"
+    },
+    {
       "sci": "Tetramorium aptum",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium atratulum",
+      "sci": "Temnothorax xanthos",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Tetramorium bicarinatum",
       "reason": "HTTP 403"
     },
     {
@@ -1916,15 +1921,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium bicarinatum",
-      "reason": "HTTP 403"
-    },
-    {
       "sci": "Tetramorium curvispinosum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium hispidum",
       "reason": "HTTP 403"
     },
     {
@@ -1936,11 +1933,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium insolens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium inquilinum",
+      "sci": "Tetramorium hispidum",
       "reason": "HTTP 403"
     },
     {
@@ -1948,11 +1941,19 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium kraepelini",
+      "sci": "Tetramorium inquilinum",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Tetramorium insolens",
       "reason": "HTTP 403"
     },
     {
       "sci": "Tetramorium kheperra",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Tetramorium kraepelini",
       "reason": "HTTP 403"
     },
     {
@@ -1972,7 +1973,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium pilosum",
+      "sci": "Tetramorium parvispinum",
       "reason": "HTTP 403"
     },
     {
@@ -1980,15 +1981,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium parvispinum",
+      "sci": "Tetramorium pilosum",
       "reason": "HTTP 403"
     },
     {
       "sci": "Tetramorium repletum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium shensiense",
       "reason": "HTTP 403"
     },
     {
@@ -2000,11 +1997,11 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium tonganum",
+      "sci": "Tetramorium shensiense",
       "reason": "HTTP 403"
     },
     {
-      "sci": "Tetramorium wroughtonii",
+      "sci": "Tetramorium tonganum",
       "reason": "HTTP 403"
     },
     {
@@ -2012,7 +2009,7 @@
       "reason": "HTTP 403"
     },
     {
-      "sci": "Veromessor andrei",
+      "sci": "Tetramorium wroughtonii",
       "reason": "HTTP 403"
     },
     {
@@ -2021,6 +2018,10 @@
     },
     {
       "sci": "Veromessor pergandei",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Veromessor andrei",
       "reason": "HTTP 403"
     },
     {
