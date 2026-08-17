@@ -1,33 +1,11 @@
 {
-  "generatedAt": "2026-08-17T03:29:05.848Z",
+  "generatedAt": "2026-08-17T03:31:56.785Z",
   "source": "GBIF Species API + occurrence country facet",
-  "targetCount": 506,
-  "generated": 139,
+  "previous": 139,
+  "targetThisRun": 367,
+  "newGenerated": 303,
+  "totalGenerated": 442,
   "failed": [
-    {
-      "sci": "Atta capiguara",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta bisphaerica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta colombica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta insularis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta mexicana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta robusta",
-      "reason": "HTTP 429"
-    },
     {
       "sci": "Camponotites shanwangensis",
       "reason": "unsafe rank GENUS"
@@ -37,247 +15,15 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Atta saltensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta texana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Atta opaciceps",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus acutirostris",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus aeneopilosus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus albipes",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus albosparsus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus altivagans",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus americanus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus atriceps",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus atrox",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus auriculatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus aurocinctus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus bakeri",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Camponotus bishamon",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Camponotus barbatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus caryae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus castaneus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus castanicola",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus chromaiodes",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus cinctellus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus cingulatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus clarior",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus daitoensis",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Camponotus clarithorax",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus compressus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus coriolanus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus cuauhtemoc",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus discolor",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus decipiens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus divergens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus dolendus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus dryandrae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus eastwoodi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus dumetorum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus empedocles",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus fragilis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus festinus diligens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus intrepidus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus friedae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus irritabilis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus itoi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus jianghuaensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus juliae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus lighti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus mitis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus novogranadensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus ocreatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus planatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus parius",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus pressipes errans",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus pressipes",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus pseudoirritans",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus satan",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus spanis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus turkestanicus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus vitiosus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus turkestanus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Camponotus wasmanni",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Carebara altinodus",
-      "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Carebara vespillo",
       "reason": "unsafe rank GENUS"
     },
     {
@@ -285,272 +31,28 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Cardiocondyla wroughtonii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Carebara affinis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Carebara lignata",
-      "reason": "HTTP 429"
+      "sci": "Carebara vespillo",
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Cataglyphis bombycina",
       "reason": "unsafe name match Cataglyphis bombycinus (Roger, 1859)"
     },
     {
-      "sci": "Cataglyphis aenescens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Cataglyphis albicans",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Cataglyphis cursor",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Cataglyphis savignyi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Cataulacus marginatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Cephalotes atratus",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Colobopsis leonardi",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Cephalotes varians",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Colobopsis vitrea",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Crematogaster abdominalis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster aberrans",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster aculeata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster acaciae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster acuta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster adrepens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster aegyptiaca",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster affabilis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster afghanica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster africana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster agnetis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster amabilis",
-      "reason": "HTTP 429"
+      "reason": "no country occurrence"
     },
     {
       "sci": "Crematogaster algirica",
       "reason": "no country occurrence"
     },
     {
-      "sci": "Crematogaster ambigua",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster ampullaris",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster angulosa",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster angusticeps",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster biroi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster brasiliensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster egidyi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster ferrarii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster inflata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster matsumurai",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster nawai",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster nigropilosa",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster osakensis",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Crematogaster zoceensis",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Crematogaster rothneyi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Crematogaster treubi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Dilobocondyla fouqueti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Dilobocondyla gaoyureni",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Echinopla angustata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Echinopla cherapunjiensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Echinopla circulus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Echinopla tritschleri",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Erromyrma latinodis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Euprenolepis procera",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica accreta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica aerata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica aquilonia",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica archboldi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica argentea",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica cinerea",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica candida",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica clara",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica cunicularia",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica exsecta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica exsectoides",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica forsslundi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica foreli",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica gagatoides",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica glabridorsis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica glacialis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica japonica",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Formica litoralis",
@@ -559,18 +61,6 @@
     {
       "sci": "Formica pamirica",
       "reason": "unsafe name match Formica pacifica Francoeur, 1973"
-    },
-    {
-      "sci": "Formica rufibarbis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica sinensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Formica tarimica",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Gaoligongidris planodorsa",
@@ -605,11 +95,11 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Lasius creightoni",
+      "sci": "Lasius coloradensis",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Lasius coloradensis",
+      "sci": "Lasius creightoni",
       "reason": "unsafe rank GENUS"
     },
     {
@@ -633,212 +123,24 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Monomorium chinense",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Monomorium ergatogyna",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Messor wasmanni",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Monomorium orientale",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Monomorium intrudens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Monomorium pharaonis",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Myrmecina pauca",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Myrmecina raviwonghei",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecina sauteri",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecina striata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecina taiwana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecocystus melanoticus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecocystus mimicus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecocystus semirufus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecocystus testaceus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecocystus wheeleri",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica alaskensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmecocystus kennedyi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica americana",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica gebaueri",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Myrmica bactriana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica brevispinosa",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica incompleta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica jessensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica koreana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica kotokui",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica lobulicornis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica lonae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica multiplex",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica phalacra",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica punctiventris",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica ritae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica rubra",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica ruginodis",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Myrmica titanica",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Myrmica sabuleti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica scabrinodis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica schencki",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmica tibetana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmoteras binghamii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Myrmoteras cuneonodum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Nesomyrmex echinatinodis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Novomessor cockerelli",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Nylanderia bourbonica",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Nylanderia integera",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Nylanderia emmae",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Paraparatrechina sakurae",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Nylanderia opisopthalmia",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Nylanderia sharpii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Oecophylla longinoda",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Nylanderia taylori",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Nylanderia yerburyi",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Perissomyrmex bidentatus",
@@ -853,216 +155,12 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Pheidole acutidens",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Pheidole argentina",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole barreleti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole bicarinata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole bigote",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole binghamii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole branstetteri",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole californica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole carinote",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole ceres",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole cerebrosior",
-      "reason": "HTTP 429"
+      "reason": "no country occurrence"
     },
     {
       "sci": "Pheidole ceylonica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole clavata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole decepticon",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole dentata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole dentigula",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole diffidens",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole dodo",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole elecebra",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole eowilsoni",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole elongicephala",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole epiphyta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole fervida",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole fossimandibula",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole gracilipes",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole hongkongensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole gymnoceras",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole hyatti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole indosinensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole parva",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole pieli",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole planifrons",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole plagiaria",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole rabo",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole radoszkowskii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole roberti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole sagei",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole smythiesii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole taipoana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole tandjongensis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole tjibodana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole tumida",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole vieti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole vistana",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole vulgaris",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pheidole watsoni",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Plagiolepis manczshurica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pogonomyrmex rugosus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pogonomyrmex subnitidus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis abdominalis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyergus samurai",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis armata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis bicolor",
-      "reason": "HTTP 429"
+      "reason": "no country occurrence"
     },
     {
       "sci": "Polyrhachis curvispina",
@@ -1073,160 +171,24 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Polyrhachis convexa",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis demangei",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis dives",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Polyrhachis gibbosa",
       "reason": "unsafe name match Polyrhachis gibbula"
-    },
-    {
-      "sci": "Polyrhachis follicula",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis exercita",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis furcata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis gracilior",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis illaudata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis latona",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis quadrispinosa",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Polyrhachis moesta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis mucronata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis proxima",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis rastellata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis striata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis tibialis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis thrinax",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis tyrannica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Polyrhachis vigilans",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Prenolepis cyclopia",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Prenolepis angularis",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Prenolepis quinquedenta",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Prenolepis mediops",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Prenolepis naoroji",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Prenolepis shanialena",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Pristomyrmex hamatus",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Pristomyrmex brevispinosus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pristomyrmex punctatus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Procryptocerus batesi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Proformica mongolica",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pseudolasius emeryi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pseudolasius cibdelus",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Pseudolasius familiaris",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Recurvidris recurvispinosa",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Rotastruma stenoceps",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Solenopsis geminata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Solenopsis molesta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Solenopsis jacoti",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Stenamma jeriorum",
@@ -1235,10 +197,6 @@
     {
       "sci": "Strumigenys abdita",
       "reason": "unsafe name match Strumigenys abdera Fisher"
-    },
-    {
-      "sci": "Solenopsis xyloni",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys abditivata",
@@ -1253,16 +211,12 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys ailaoshana",
-      "reason": "unsafe rank GENUS"
-    },
-    {
       "sci": "Strumigenys acubecca",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys actis",
-      "reason": "HTTP 429"
+      "sci": "Strumigenys ailaoshana",
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys anhdaoae",
@@ -1281,72 +235,12 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys alberti",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys dyschima",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys exilirhina",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys feae",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys kichijo",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys hirsuta",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys kumadori",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys lewisi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys lyroessa",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys minutula",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys mitis",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys nathistorisoc",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Strumigenys paraposta",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys nepalensis",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Strumigenys strygax",
       "reason": "unsafe rank GENUS"
-    },
-    {
-      "sci": "Strumigenys sauteri",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys rallarhina",
-      "reason": "HTTP 429"
     },
     {
       "sci": "Temnothorax nassonovi",
@@ -1361,116 +255,12 @@
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys sydorata",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Strumigenys zandala",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Temnothorax xanthos",
       "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Tetramorium aptum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium bicarinatum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium caespitum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium ciliatum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium curvispinosum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium flavipes",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium hispidum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium immigrans",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium hungaricum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium inquilinum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium kraepelini",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium laparum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium mayri",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium nipponense",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium pacificum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium parvispinum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium pilosum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium shensiense",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium smithi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium tonganum",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium walshi",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Tetramorium tsushimae",
-      "reason": "HTTP 429"
-    },
-    {
       "sci": "Uwari keihitoi",
       "reason": "unsafe rank KINGDOM"
-    },
-    {
-      "sci": "Tetramorium wroughtonii",
-      "reason": "HTTP 429"
-    },
-    {
-      "sci": "Vollenhovia emeryi",
-      "reason": "HTTP 429"
     }
   ]
 }
