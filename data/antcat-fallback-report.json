@@ -1,0 +1,263 @@
+{
+  "generatedAt": "2026-08-17T03:35:02.529Z",
+  "target": 64,
+  "generated": 0,
+  "failed": [
+    {
+      "sci": "Camponotites shanwangensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus absquatulator",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus bishamon",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Camponotus daitoensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Carebara altinodus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Carebara obtusidenta",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Carebara vespillo",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Cataglyphis bombycina",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Colobopsis leonardi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster abdominalis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster algirica",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Crematogaster zoceensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Formica litoralis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Formica pamirica",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Gaoligongidris planodorsa",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Kartidris ashima",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Kartidris sparsipila",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius balearicus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius brevipalpus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius bureni",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius chinensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius colei",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius coloradensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius creightoni",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius kabaki",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius longipalpus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Lasius sichuensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Messor desertora",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Messor desertus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmecina pauca",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica gebaueri",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Myrmica titanica",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Nylanderia integera",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Paraparatrechina sakurae",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Perissomyrmex bidentatus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Perissomyrmex fissus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole antipodum",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole argentina",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pheidole ceylonica",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis curvispina",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis dentihumera",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis gibbosa",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Polyrhachis quadrispinosa",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Prenolepis cyclopia",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Prenolepis quinquedenta",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Pristomyrmex hamatus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Stenamma jeriorum",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys abdita",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys abditivata",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys acarai",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys acheron",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys acubecca",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys ailaoshana",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys anhdaoae",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys apalachicolensis",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys archboldi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys canina",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys paraposta",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Strumigenys strygax",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Temnothorax nassonovi",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Temnothorax orchidus",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Temnothorax wui",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Temnothorax xanthos",
+      "reason": "HTTP 403"
+    },
+    {
+      "sci": "Uwari keihitoi",
+      "reason": "HTTP 403"
+    }
+  ]
+}
