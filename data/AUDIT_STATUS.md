@@ -1,15 +1,15 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:08:32.282Z
+生成时间：2026-08-17T03:09:26.402Z
 
-总物种：**732**；已有 verified/rich 记录：**119**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**135**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
 | Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
-| Dolichoderinae · 臭蚁亚科 | 39 | 23 | 23 | 18 | 16 | 59% |
+| Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
 | Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 16 | 16 | 16 | 0 | 100% |
@@ -604,22 +604,7 @@
 
 ### Dolichoderinae · 臭蚁亚科
 
-- 白斑酸臭蚁 · Tapinoma albomaculatum — 有效字段 0；缺核心：summary, distribution
-- Tapinoma geei — 有效字段 0；缺核心：summary, distribution
-- Tapinoma melanocephalum — 有效字段 0；缺核心：summary, distribution
-- 矮酸臭蚁 · Tapinoma sessile — 有效字段 0；缺核心：summary, distribution
-- Tapinoma sinense — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex albipes — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex antennus — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex bicolor — 有效字段 0；缺核心：summary, distribution
-- 褐狡臭蚁 · Technomyrmex brunneus — 有效字段 0；缺核心：summary, distribution
-- 不羁狡臭蚁 · Technomyrmex difficilis — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex gibbosus — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex horni — 有效字段 0；缺核心：summary, distribution
-- 丽莎狡臭蚁 · Technomyrmex lisae — 有效字段 0；缺核心：summary, distribution
-- 莫氏狡臭蚁 · Technomyrmex modiglianii — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex obscurior — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex pratensis — 有效字段 0；缺核心：summary, distribution
+核心资料已覆盖。
 
 ### Dorylinae · 行军蚁亚科
 
