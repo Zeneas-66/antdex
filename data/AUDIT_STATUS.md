@@ -1,15 +1,15 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:02:12.903Z
+生成时间：2026-08-17T03:08:32.282Z
 
-总物种：**732**；已有 verified/rich 记录：**97**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**119**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Dolichoderinae · 臭蚁亚科 | 39 | 1 | 1 | 1 | 38 | 2.6% |
 | Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
+| Dolichoderinae · 臭蚁亚科 | 39 | 23 | 23 | 18 | 16 | 59% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
 | Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 16 | 16 | 16 | 0 | 100% |
@@ -20,47 +20,6 @@
 | Paraponerinae · 近猛蚁亚科 | 1 | 1 | 1 | 1 | 0 | 100% |
 
 ## 每个亚科优先补齐名单
-
-### Dolichoderinae · 臭蚁亚科
-
-- 迅捷阿臭蚁 · Azteca velox — 有效字段 0；缺核心：summary, distribution
-- Chronoxenus wroughtonii — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus affinis — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus cuspidatus — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus flatidorsus — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus incisus — 有效字段 0；缺核心：summary, distribution
-- 神山臭蚁 · Dolichoderus kinabaluensis — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus laotius — 有效字段 0；缺核心：summary, distribution
-- 西伯利亚臭蚁 · Dolichoderus sibiricus — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus squamanodus — 有效字段 0；缺核心：summary, distribution
-- 肿腹臭蚁 · Dolichoderus sulcaticeps — 有效字段 0；缺核心：summary, distribution
-- Dolichoderus taprobanae — 有效字段 0；缺核心：summary, distribution
-- 胸臭蚁 · Dolichoderus thoracicus — 有效字段 0；缺核心：summary, distribution
-- 双色锥臭蚁 · Dorymyrmex bicolor — 有效字段 0；缺核心：summary, distribution
-- 癫狂锥臭蚁 · Dorymyrmex insanus — 有效字段 0；缺核心：summary, distribution
-- 麦氏福臭蚁 · Forelius mccooki — 有效字段 0；缺核心：summary, distribution
-- Iridomyrmex anceps — 有效字段 0；缺核心：summary, distribution
-- Liometopum lindgreeni — 有效字段 0；缺核心：summary, distribution
-- 美西光胸臭蚁 · Liometopum occidentale — 有效字段 0；缺核心：summary, distribution
-- Liometopum sinense — 有效字段 0；缺核心：summary, distribution
-- 无毛凹臭蚁 · Ochetellus glaber — 有效字段 0；缺核心：summary, distribution
-- Ravavy indicus — 有效字段 0；缺核心：summary, distribution
-- 白斑酸臭蚁 · Tapinoma albomaculatum — 有效字段 0；缺核心：summary, distribution
-- Tapinoma geei — 有效字段 0；缺核心：summary, distribution
-- Tapinoma melanocephalum — 有效字段 0；缺核心：summary, distribution
-- 矮酸臭蚁 · Tapinoma sessile — 有效字段 0；缺核心：summary, distribution
-- Tapinoma sinense — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex albipes — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex antennus — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex bicolor — 有效字段 0；缺核心：summary, distribution
-- 褐狡臭蚁 · Technomyrmex brunneus — 有效字段 0；缺核心：summary, distribution
-- 不羁狡臭蚁 · Technomyrmex difficilis — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex gibbosus — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex horni — 有效字段 0；缺核心：summary, distribution
-- 丽莎狡臭蚁 · Technomyrmex lisae — 有效字段 0；缺核心：summary, distribution
-- 莫氏狡臭蚁 · Technomyrmex modiglianii — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex obscurior — 有效字段 0；缺核心：summary, distribution
-- Technomyrmex pratensis — 有效字段 0；缺核心：summary, distribution
 
 ### Ponerinae · 猛蚁亚科
 
@@ -642,6 +601,25 @@
 - Pseudolasius silvestrii — 有效字段 0；缺核心：summary, distribution
 - Uwari keihitoi — 有效字段 0；缺核心：summary, distribution
 - 窄颈弓背蚁 · Camponotus angusticollis — 有效字段 1；缺核心：distribution
+
+### Dolichoderinae · 臭蚁亚科
+
+- 白斑酸臭蚁 · Tapinoma albomaculatum — 有效字段 0；缺核心：summary, distribution
+- Tapinoma geei — 有效字段 0；缺核心：summary, distribution
+- Tapinoma melanocephalum — 有效字段 0；缺核心：summary, distribution
+- 矮酸臭蚁 · Tapinoma sessile — 有效字段 0；缺核心：summary, distribution
+- Tapinoma sinense — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex albipes — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex antennus — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex bicolor — 有效字段 0；缺核心：summary, distribution
+- 褐狡臭蚁 · Technomyrmex brunneus — 有效字段 0；缺核心：summary, distribution
+- 不羁狡臭蚁 · Technomyrmex difficilis — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex gibbosus — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex horni — 有效字段 0；缺核心：summary, distribution
+- 丽莎狡臭蚁 · Technomyrmex lisae — 有效字段 0；缺核心：summary, distribution
+- 莫氏狡臭蚁 · Technomyrmex modiglianii — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex obscurior — 有效字段 0；缺核心：summary, distribution
+- Technomyrmex pratensis — 有效字段 0；缺核心：summary, distribution
 
 ### Dorylinae · 行军蚁亚科
 

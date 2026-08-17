@@ -1,796 +1,9 @@
 {
-  "generatedAt": "2026-08-17T03:02:12.903Z",
+  "generatedAt": "2026-08-17T03:08:32.282Z",
   "totalSpecies": 732,
-  "verifiedRecords": 97,
+  "verifiedRecords": 119,
   "conflicts": [],
   "subfamilies": [
-    {
-      "subfamily": "Dolichoderinae",
-      "subfamilyZh": "臭蚁亚科",
-      "total": 39,
-      "withAny": 1,
-      "withCore": 1,
-      "withDetail": 1,
-      "empty": 38,
-      "species": [
-        {
-          "sci": "Azteca velox",
-          "zh": "迅捷阿臭蚁",
-          "genus": "Azteca",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Chronoxenus wroughtonii",
-          "zh": "",
-          "genus": "Chronoxenus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus affinis",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus cuspidatus",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus flatidorsus",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus incisus",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus kinabaluensis",
-          "zh": "神山臭蚁",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus laotius",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus sibiricus",
-          "zh": "西伯利亚臭蚁",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus squamanodus",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus sulcaticeps",
-          "zh": "肿腹臭蚁",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus taprobanae",
-          "zh": "",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dolichoderus thoracicus",
-          "zh": "胸臭蚁",
-          "genus": "Dolichoderus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dorymyrmex bicolor",
-          "zh": "双色锥臭蚁",
-          "genus": "Dorymyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Dorymyrmex insanus",
-          "zh": "癫狂锥臭蚁",
-          "genus": "Dorymyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Forelius mccooki",
-          "zh": "麦氏福臭蚁",
-          "genus": "Forelius",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Iridomyrmex anceps",
-          "zh": "",
-          "genus": "Iridomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Liometopum lindgreeni",
-          "zh": "",
-          "genus": "Liometopum",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Liometopum occidentale",
-          "zh": "美西光胸臭蚁",
-          "genus": "Liometopum",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Liometopum sinense",
-          "zh": "",
-          "genus": "Liometopum",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ochetellus glaber",
-          "zh": "无毛凹臭蚁",
-          "genus": "Ochetellus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Ravavy indicus",
-          "zh": "",
-          "genus": "Ravavy",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tapinoma albomaculatum",
-          "zh": "白斑酸臭蚁",
-          "genus": "Tapinoma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tapinoma geei",
-          "zh": "",
-          "genus": "Tapinoma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tapinoma melanocephalum",
-          "zh": "",
-          "genus": "Tapinoma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tapinoma sessile",
-          "zh": "矮酸臭蚁",
-          "genus": "Tapinoma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tapinoma sinense",
-          "zh": "",
-          "genus": "Tapinoma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex albipes",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex antennus",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex bicolor",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex brunneus",
-          "zh": "褐狡臭蚁",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex difficilis",
-          "zh": "不羁狡臭蚁",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex gibbosus",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex horni",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex lisae",
-          "zh": "丽莎狡臭蚁",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex modiglianii",
-          "zh": "莫氏狡臭蚁",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex obscurior",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Technomyrmex pratensis",
-          "zh": "",
-          "genus": "Technomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Linepithema humile",
-          "zh": "阿根廷蚁",
-          "genus": "Linepithema",
-          "factCount": 10,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 2.6
-    },
     {
       "subfamily": "Ponerinae",
       "subfamilyZh": "猛蚁亚科",
@@ -12678,6 +11891,661 @@
         }
       ],
       "completeness": 5.3
+    },
+    {
+      "subfamily": "Dolichoderinae",
+      "subfamilyZh": "臭蚁亚科",
+      "total": 39,
+      "withAny": 23,
+      "withCore": 23,
+      "withDetail": 18,
+      "empty": 16,
+      "species": [
+        {
+          "sci": "Tapinoma albomaculatum",
+          "zh": "白斑酸臭蚁",
+          "genus": "Tapinoma",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Tapinoma geei",
+          "zh": "",
+          "genus": "Tapinoma",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Tapinoma melanocephalum",
+          "zh": "",
+          "genus": "Tapinoma",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Tapinoma sessile",
+          "zh": "矮酸臭蚁",
+          "genus": "Tapinoma",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Tapinoma sinense",
+          "zh": "",
+          "genus": "Tapinoma",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex albipes",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex antennus",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex bicolor",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex brunneus",
+          "zh": "褐狡臭蚁",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex difficilis",
+          "zh": "不羁狡臭蚁",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex gibbosus",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex horni",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex lisae",
+          "zh": "丽莎狡臭蚁",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex modiglianii",
+          "zh": "莫氏狡臭蚁",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex obscurior",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Technomyrmex pratensis",
+          "zh": "",
+          "genus": "Technomyrmex",
+          "factCount": 0,
+          "missingCore": [
+            "summary",
+            "distribution"
+          ],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Chronoxenus wroughtonii",
+          "zh": "",
+          "genus": "Chronoxenus",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus flatidorsus",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus incisus",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Liometopum lindgreeni",
+          "zh": "",
+          "genus": "Liometopum",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus sulcaticeps",
+          "zh": "肿腹臭蚁",
+          "genus": "Dolichoderus",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus squamanodus",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus taprobanae",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Iridomyrmex anceps",
+          "zh": "",
+          "genus": "Iridomyrmex",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Liometopum occidentale",
+          "zh": "美西光胸臭蚁",
+          "genus": "Liometopum",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Liometopum sinense",
+          "zh": "",
+          "genus": "Liometopum",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "nest",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Ravavy indicus",
+          "zh": "",
+          "genus": "Ravavy",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus laotius",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "nest",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Ochetellus glaber",
+          "zh": "无毛凹臭蚁",
+          "genus": "Ochetellus",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Azteca velox",
+          "zh": "迅捷阿臭蚁",
+          "genus": "Azteca",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus affinis",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus sibiricus",
+          "zh": "西伯利亚臭蚁",
+          "genus": "Dolichoderus",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "colony"
+          ]
+        },
+        {
+          "sci": "Dorymyrmex bicolor",
+          "zh": "双色锥臭蚁",
+          "genus": "Dorymyrmex",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Dolichoderus cuspidatus",
+          "zh": "",
+          "genus": "Dolichoderus",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dolichoderus kinabaluensis",
+          "zh": "神山臭蚁",
+          "genus": "Dolichoderus",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Dorymyrmex insanus",
+          "zh": "癫狂锥臭蚁",
+          "genus": "Dorymyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Forelius mccooki",
+          "zh": "麦氏福臭蚁",
+          "genus": "Forelius",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Dolichoderus thoracicus",
+          "zh": "胸臭蚁",
+          "genus": "Dolichoderus",
+          "factCount": 9,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Linepithema humile",
+          "zh": "阿根廷蚁",
+          "genus": "Linepithema",
+          "factCount": 10,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        }
+      ],
+      "completeness": 59
     },
     {
       "subfamily": "Dorylinae",
