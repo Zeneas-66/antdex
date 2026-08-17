@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T02:53:01.646Z",
+  "generatedAt": "2026-08-17T02:53:38.237Z",
   "totalSpecies": 732,
-  "verifiedRecords": 34,
+  "verifiedRecords": 42,
   "conflicts": [],
   "subfamilies": [
     {
@@ -13819,171 +13819,11 @@
       "subfamily": "Myrmeciinae",
       "subfamilyZh": "犬蚁亚科",
       "total": 24,
-      "withAny": 16,
-      "withCore": 16,
-      "withDetail": 8,
-      "empty": 8,
+      "withAny": 24,
+      "withCore": 24,
+      "withDetail": 11,
+      "empty": 0,
       "species": [
-        {
-          "sci": "Myrmecia chrysogaster",
-          "zh": "金腹牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia gratiosa",
-          "zh": "娇美牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia gulosa",
-          "zh": "贪婪牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia hirsuta",
-          "zh": "",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia mandibularis",
-          "zh": "剑齿牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia nigriscapa",
-          "zh": "黑柄牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia nigrocincta",
-          "zh": "黑带牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Myrmecia pyriformis",
-          "zh": "梨形牛蚁",
-          "genus": "Myrmecia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
         {
           "sci": "Myrmecia auriventris",
           "zh": "",
@@ -14003,6 +13843,22 @@
         {
           "sci": "Myrmecia borealis",
           "zh": "",
+          "genus": "Myrmecia",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Myrmecia chrysogaster",
+          "zh": "金腹牛蚁",
           "genus": "Myrmecia",
           "factCount": 3,
           "missingCore": [],
@@ -14113,12 +13969,76 @@
           ]
         },
         {
+          "sci": "Myrmecia gratiosa",
+          "zh": "娇美牛蚁",
+          "genus": "Myrmecia",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Myrmecia gulosa",
+          "zh": "贪婪牛蚁",
+          "genus": "Myrmecia",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Myrmecia hirsuta",
+          "zh": "",
+          "genus": "Myrmecia",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
           "sci": "Myrmecia acuta",
           "zh": "尖齿牛蚁",
           "genus": "Myrmecia",
           "factCount": 4,
           "missingCore": [],
           "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Myrmecia mandibularis",
+          "zh": "剑齿牛蚁",
+          "genus": "Myrmecia",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
             "ecology",
             "nest",
             "diet",
@@ -14152,6 +14072,20 @@
             "nest",
             "diet",
             "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Myrmecia nigriscapa",
+          "zh": "黑柄牛蚁",
+          "genus": "Myrmecia",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
             "colony",
             "flight"
           ]
@@ -14199,6 +14133,20 @@
           ]
         },
         {
+          "sci": "Myrmecia nigrocincta",
+          "zh": "黑带牛蚁",
+          "genus": "Myrmecia",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior"
+          ]
+        },
+        {
           "sci": "Myrmecia aberrans",
           "zh": "",
           "genus": "Myrmecia",
@@ -14223,9 +14171,19 @@
             "colony",
             "flight"
           ]
+        },
+        {
+          "sci": "Myrmecia pyriformis",
+          "zh": "梨形牛蚁",
+          "genus": "Myrmecia",
+          "factCount": 10,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology"
+          ]
         }
       ],
-      "completeness": 66.7
+      "completeness": 100
     },
     {
       "subfamily": "Ectatomminae",

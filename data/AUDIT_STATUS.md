@@ -1,8 +1,8 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T02:53:01.646Z
+生成时间：2026-08-17T02:53:38.237Z
 
-总物种：**732**；已有 verified/rich 记录：**34**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**42**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
@@ -13,7 +13,7 @@
 | Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
-| Myrmeciinae · 犬蚁亚科 | 24 | 16 | 16 | 8 | 8 | 66.7% |
+| Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
 | Ectatomminae · 突蚁亚科 | 6 | 6 | 6 | 4 | 0 | 100% |
 | Amblyoponinae · 钝猛蚁亚科 | 4 | 4 | 4 | 1 | 0 | 100% |
 | Leptanillinae · 细蚁亚科 | 3 | 3 | 3 | 2 | 0 | 100% |
@@ -709,14 +709,7 @@
 
 ### Myrmeciinae · 犬蚁亚科
 
-- 金腹牛蚁 · Myrmecia chrysogaster — 有效字段 0；缺核心：summary, distribution
-- 娇美牛蚁 · Myrmecia gratiosa — 有效字段 0；缺核心：summary, distribution
-- 贪婪牛蚁 · Myrmecia gulosa — 有效字段 0；缺核心：summary, distribution
-- Myrmecia hirsuta — 有效字段 0；缺核心：summary, distribution
-- 剑齿牛蚁 · Myrmecia mandibularis — 有效字段 0；缺核心：summary, distribution
-- 黑柄牛蚁 · Myrmecia nigriscapa — 有效字段 0；缺核心：summary, distribution
-- 黑带牛蚁 · Myrmecia nigrocincta — 有效字段 0；缺核心：summary, distribution
-- 梨形牛蚁 · Myrmecia pyriformis — 有效字段 0；缺核心：summary, distribution
+核心资料已覆盖。
 
 ### Ectatomminae · 突蚁亚科
 
