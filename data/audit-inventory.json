@@ -1,38 +1,18 @@
 {
-  "generatedAt": "2026-08-17T03:44:42.580Z",
-  "totalSpecies": 734,
-  "verifiedRecords": 675,
+  "generatedAt": "2026-08-17T03:45:09.620Z",
+  "totalSpecies": 740,
+  "verifiedRecords": 685,
   "conflicts": [],
   "subfamilies": [
     {
       "subfamily": "Myrmicinae",
       "subfamilyZh": "切叶蚁亚科",
       "total": 304,
-      "withAny": 279,
-      "withCore": 279,
-      "withDetail": 14,
-      "empty": 25,
+      "withAny": 282,
+      "withCore": 282,
+      "withDetail": 15,
+      "empty": 22,
       "species": [
-        {
-          "sci": "Myrmica gebaueri",
-          "zh": "",
-          "genus": "Myrmica",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
         {
           "sci": "Myrmica titanica",
           "zh": "",
@@ -95,46 +75,6 @@
         },
         {
           "sci": "Pheidole antipodum",
-          "zh": "",
-          "genus": "Pheidole",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pheidole argentina",
-          "zh": "",
-          "genus": "Pheidole",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pheidole ceylonica",
           "zh": "",
           "genus": "Pheidole",
           "factCount": 0,
@@ -2996,6 +2936,23 @@
           ]
         },
         {
+          "sci": "Pheidole ceylonica",
+          "zh": "",
+          "genus": "Pheidole",
+          "factCount": 2,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Pheidole clavata",
           "zh": "",
           "genus": "Pheidole",
@@ -3269,23 +3226,6 @@
         },
         {
           "sci": "Pheidole gymnoceras",
-          "zh": "",
-          "genus": "Pheidole",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pheidole hongkongensis",
           "zh": "",
           "genus": "Pheidole",
           "factCount": 2,
@@ -5013,6 +4953,38 @@
           ]
         },
         {
+          "sci": "Pheidole argentina",
+          "zh": "",
+          "genus": "Pheidole",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pheidole hongkongensis",
+          "zh": "",
+          "genus": "Pheidole",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Acromyrmex rugosus",
           "zh": "罗格斯顶切叶蚁",
           "genus": "Acromyrmex",
@@ -5056,6 +5028,21 @@
             "diet",
             "behavior",
             "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Myrmica gebaueri",
+          "zh": "",
+          "genus": "Myrmica",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
             "flight",
             "nomenclature"
           ]
@@ -5220,16 +5207,16 @@
           ]
         }
       ],
-      "completeness": 91.8
+      "completeness": 92.8
     },
     {
       "subfamily": "Formicinae",
       "subfamilyZh": "蚁亚科",
       "total": 228,
-      "withAny": 219,
-      "withCore": 219,
+      "withAny": 220,
+      "withCore": 220,
       "withDetail": 13,
-      "empty": 9,
+      "empty": 8,
       "species": [
         {
           "sci": "Nylanderia integera",
@@ -5293,26 +5280,6 @@
         },
         {
           "sci": "Polyrhachis dentihumera",
-          "zh": "",
-          "genus": "Polyrhachis",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Polyrhachis gibbosa",
           "zh": "",
           "genus": "Polyrhachis",
           "factCount": 0,
@@ -8251,6 +8218,23 @@
           ]
         },
         {
+          "sci": "Polyrhachis gibbosa",
+          "zh": "",
+          "genus": "Polyrhachis",
+          "factCount": 2,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Polyrhachis gracilior",
           "zh": "",
           "genus": "Polyrhachis",
@@ -9098,7 +9082,7 @@
           ]
         }
       ],
-      "completeness": 96.1
+      "completeness": 96.5
     },
     {
       "subfamily": "Ponerinae",
@@ -11866,6 +11850,154 @@
       "completeness": 100
     },
     {
+      "subfamily": "Unknown",
+      "subfamilyZh": "",
+      "total": 8,
+      "withAny": 8,
+      "withCore": 8,
+      "withDetail": 0,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Pheidole jucunda",
+          "zh": "",
+          "genus": "",
+          "factCount": 2,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pheidole lamellinoda",
+          "zh": "",
+          "genus": "",
+          "factCount": 2,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Polyrhachis laevissima",
+          "zh": "",
+          "genus": "",
+          "factCount": 2,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Lasius hirsutus",
+          "zh": "",
+          "genus": "",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Lasius wittmeri",
+          "zh": "",
+          "genus": "",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pheidole lasiosternum",
+          "zh": "",
+          "genus": "",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pheidole medogensis",
+          "zh": "",
+          "genus": "",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pheidole oblongula",
+          "zh": "",
+          "genus": "",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        }
+      ],
+      "completeness": 100
+    },
+    {
       "subfamily": "Ectatomminae",
       "subfamilyZh": "突蚁亚科",
       "total": 6,
@@ -12091,52 +12223,6 @@
             "behavior",
             "colony",
             "flight"
-          ]
-        }
-      ],
-      "completeness": 100
-    },
-    {
-      "subfamily": "Unknown",
-      "subfamilyZh": "",
-      "total": 2,
-      "withAny": 2,
-      "withCore": 2,
-      "withDetail": 0,
-      "empty": 0,
-      "species": [
-        {
-          "sci": "Lasius hirsutus",
-          "zh": "",
-          "genus": "",
-          "factCount": 3,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Lasius wittmeri",
-          "zh": "",
-          "genus": "",
-          "factCount": 3,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
           ]
         }
       ],

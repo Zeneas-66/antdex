@@ -1,36 +1,33 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:44:42.580Z
+生成时间：2026-08-17T03:45:09.620Z
 
-总物种：**734**；已有 verified/rich 记录：**675**；导入冲突：**0**。
+总物种：**740**；已有 verified/rich 记录：**685**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Myrmicinae · 切叶蚁亚科 | 304 | 279 | 279 | 14 | 25 | 91.8% |
-| Formicinae · 蚁亚科 | 228 | 219 | 219 | 13 | 9 | 96.1% |
+| Myrmicinae · 切叶蚁亚科 | 304 | 282 | 282 | 15 | 22 | 92.8% |
+| Formicinae · 蚁亚科 | 228 | 220 | 220 | 13 | 8 | 96.5% |
 | Ponerinae · 猛蚁亚科 | 68 | 68 | 68 | 48 | 0 | 100% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
 | Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 16 | 16 | 16 | 0 | 100% |
 | Proceratiinae · 卷尾猛蚁亚科 | 11 | 11 | 11 | 8 | 0 | 100% |
+| Unknown | 8 | 8 | 8 | 0 | 0 | 100% |
 | Ectatomminae · 突蚁亚科 | 6 | 6 | 6 | 4 | 0 | 100% |
 | Amblyoponinae · 钝猛蚁亚科 | 4 | 4 | 4 | 1 | 0 | 100% |
 | Leptanillinae · 细蚁亚科 | 3 | 3 | 3 | 2 | 0 | 100% |
-| Unknown | 2 | 2 | 2 | 0 | 0 | 100% |
 | Paraponerinae · 近猛蚁亚科 | 1 | 1 | 1 | 1 | 0 | 100% |
 
 ## 每个亚科优先补齐名单
 
 ### Myrmicinae · 切叶蚁亚科
 
-- Myrmica gebaueri — 有效字段 0；缺核心：summary, distribution
 - Myrmica titanica — 有效字段 0；缺核心：summary, distribution
 - Perissomyrmex bidentatus — 有效字段 0；缺核心：summary, distribution
 - Perissomyrmex fissus — 有效字段 0；缺核心：summary, distribution
 - Pheidole antipodum — 有效字段 0；缺核心：summary, distribution
-- Pheidole argentina — 有效字段 0；缺核心：summary, distribution
-- Pheidole ceylonica — 有效字段 0；缺核心：summary, distribution
 - Pristomyrmex hamatus — 有效字段 0；缺核心：summary, distribution
 - Stenamma jeriorum — 有效字段 0；缺核心：summary, distribution
 - Strumigenys abdita — 有效字段 0；缺核心：summary, distribution
@@ -195,6 +192,7 @@
 - Pheidole carinote — 有效字段 2；缺核心：无
 - Pheidole cerebrosior — 有效字段 2；缺核心：无
 - Pheidole ceres — 有效字段 2；缺核心：无
+- Pheidole ceylonica — 有效字段 2；缺核心：无
 - Pheidole clavata — 有效字段 2；缺核心：无
 - Pheidole crassicornis — 有效字段 2；缺核心：无
 - Pheidole debilis — 有效字段 2；缺核心：无
@@ -212,7 +210,6 @@
 - Pheidole fossimandibula — 有效字段 2；缺核心：无
 - Pheidole gracilipes — 有效字段 2；缺核心：无
 - Pheidole gymnoceras — 有效字段 2；缺核心：无
-- Pheidole hongkongensis — 有效字段 2；缺核心：无
 - 凯氏大头蚁 · Pheidole hyatti — 有效字段 2；缺核心：无
 - Pheidole indosinensis — 有效字段 2；缺核心：无
 - Pheidole magna — 有效字段 2；缺核心：无
@@ -313,7 +310,6 @@
 - Paraparatrechina sakurae — 有效字段 0；缺核心：summary, distribution
 - Polyrhachis curvispina — 有效字段 0；缺核心：summary, distribution
 - Polyrhachis dentihumera — 有效字段 0；缺核心：summary, distribution
-- Polyrhachis gibbosa — 有效字段 0；缺核心：summary, distribution
 - 四刺多刺蚁 · Polyrhachis quadrispinosa — 有效字段 0；缺核心：summary, distribution
 - Prenolepis cyclopia — 有效字段 0；缺核心：summary, distribution
 - Prenolepis quinquedenta — 有效字段 0；缺核心：summary, distribution
@@ -485,6 +481,7 @@
 - Polyrhachis exercita — 有效字段 2；缺核心：无
 - Polyrhachis follicula — 有效字段 2；缺核心：无
 - Polyrhachis furcata — 有效字段 2；缺核心：无
+- Polyrhachis gibbosa — 有效字段 2；缺核心：无
 - Polyrhachis gracilior — 有效字段 2；缺核心：无
 - Polyrhachis halidayi — 有效字段 2；缺核心：无
 - Polyrhachis hippomanes — 有效字段 2；缺核心：无
@@ -537,6 +534,12 @@
 
 核心资料已覆盖。
 
+### Unknown
+
+- Pheidole jucunda — 有效字段 2；缺核心：无
+- Pheidole lamellinoda — 有效字段 2；缺核心：无
+- Polyrhachis laevissima — 有效字段 2；缺核心：无
+
 ### Ectatomminae · 突蚁亚科
 
 核心资料已覆盖。
@@ -546,10 +549,6 @@
 核心资料已覆盖。
 
 ### Leptanillinae · 细蚁亚科
-
-核心资料已覆盖。
-
-### Unknown
 
 核心资料已覆盖。
 
