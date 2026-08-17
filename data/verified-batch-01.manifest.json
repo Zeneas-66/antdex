@@ -1,0 +1,25 @@
+{
+  "batchId": "verified-batch-01-20260817",
+  "speciesCount": 12,
+  "species": [
+    "Myrmecia acuta",
+    "Myrmecia analis",
+    "Myrmecia comata",
+    "Myrmecia desertorum",
+    "Myrmecia esuriens",
+    "Myrmecia flammicollis",
+    "Myrmecia flavicoma",
+    "Myrmecia forceps",
+    "Atta cephalotes",
+    "Atta sexdens",
+    "Atta laevigata",
+    "Acromyrmex rugosus"
+  ],
+  "policy": {
+    "baseDatabaseMutated": false,
+    "overwriteExistingVerifiedFields": false,
+    "conflictsRecorded": true,
+    "placeholderValuesIgnored": true,
+    "husbandryTemperatureHumidity": "not imported without species-level evidence"
+  }
+}
