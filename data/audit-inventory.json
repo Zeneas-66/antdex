@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T02:53:38.237Z",
+  "generatedAt": "2026-08-17T02:55:03.832Z",
   "totalSpecies": 732,
-  "verifiedRecords": 42,
+  "verifiedRecords": 53,
   "conflicts": [],
   "subfamilies": [
     {
@@ -889,238 +889,6 @@
           "sci": "Tetraponera rufonigra",
           "zh": "红黑细长蚁",
           "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 0
-    },
-    {
-      "subfamily": "Proceratiinae",
-      "subfamilyZh": "卷尾猛蚁亚科",
-      "total": 11,
-      "withAny": 0,
-      "withCore": 0,
-      "withDetail": 0,
-      "empty": 11,
-      "species": [
-        {
-          "sci": "Discothyrea banna",
-          "zh": "",
-          "genus": "Discothyrea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Discothyrea clavicornis",
-          "zh": "",
-          "genus": "Discothyrea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Discothyrea diana",
-          "zh": "",
-          "genus": "Discothyrea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Discothyrea kamiteta",
-          "zh": "",
-          "genus": "Discothyrea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Discothyrea sauteri",
-          "zh": "",
-          "genus": "Discothyrea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Discothyrea testacea",
-          "zh": "",
-          "genus": "Discothyrea",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Probolomyrmex longiscapus",
-          "zh": "",
-          "genus": "Probolomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Proceratium bruelheidei",
-          "zh": "",
-          "genus": "Proceratium",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Proceratium google",
-          "zh": "",
-          "genus": "Proceratium",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Proceratium longigaster",
-          "zh": "",
-          "genus": "Proceratium",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Proceratium zhaoi",
-          "zh": "",
-          "genus": "Proceratium",
           "factCount": 0,
           "missingCore": [
             "summary",
@@ -14180,6 +13948,180 @@
           "missingCore": [],
           "missingDetail": [
             "ecology"
+          ]
+        }
+      ],
+      "completeness": 100
+    },
+    {
+      "subfamily": "Proceratiinae",
+      "subfamilyZh": "卷尾猛蚁亚科",
+      "total": 11,
+      "withAny": 11,
+      "withCore": 11,
+      "withDetail": 8,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Discothyrea clavicornis",
+          "zh": "",
+          "genus": "Discothyrea",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Proceratium bruelheidei",
+          "zh": "",
+          "genus": "Proceratium",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Discothyrea diana",
+          "zh": "",
+          "genus": "Discothyrea",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Proceratium google",
+          "zh": "",
+          "genus": "Proceratium",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Proceratium longigaster",
+          "zh": "",
+          "genus": "Proceratium",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Discothyrea kamiteta",
+          "zh": "",
+          "genus": "Discothyrea",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Probolomyrmex longiscapus",
+          "zh": "",
+          "genus": "Probolomyrmex",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Proceratium zhaoi",
+          "zh": "",
+          "genus": "Proceratium",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Discothyrea banna",
+          "zh": "",
+          "genus": "Discothyrea",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Discothyrea sauteri",
+          "zh": "",
+          "genus": "Discothyrea",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Discothyrea testacea",
+          "zh": "",
+          "genus": "Discothyrea",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "colony",
+            "flight"
           ]
         }
       ],
