@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T02:55:03.832Z",
+  "generatedAt": "2026-08-17T02:59:14.053Z",
   "totalSpecies": 732,
-  "verifiedRecords": 53,
+  "verifiedRecords": 69,
   "conflicts": [],
   "subfamilies": [
     {
@@ -557,338 +557,6 @@
           "sci": "Yunodorylus sexspinus",
           "zh": "",
           "genus": "Yunodorylus",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 0
-    },
-    {
-      "subfamily": "Pseudomyrmecinae",
-      "subfamilyZh": "伪切叶蚁亚科",
-      "total": 16,
-      "withAny": 0,
-      "withCore": 0,
-      "withDetail": 0,
-      "empty": 16,
-      "species": [
-        {
-          "sci": "Pseudomyrmex apache",
-          "zh": "阿帕奇伪切叶蚁",
-          "genus": "Pseudomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pseudomyrmex ferrugineus",
-          "zh": "",
-          "genus": "Pseudomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pseudomyrmex gracilis",
-          "zh": "细伪切叶蚁",
-          "genus": "Pseudomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pseudomyrmex simplex",
-          "zh": "单伪切叶蚁",
-          "genus": "Pseudomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera allaborans",
-          "zh": "飘细长蚁",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera amargina",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera attenuata",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera binghami",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera concava",
-          "zh": "凹唇细长蚁",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera convexa",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera extenuata",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera microcarpa",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera modesta",
-          "zh": "平静细长蚁",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera nigra",
-          "zh": "",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera pilosa",
-          "zh": "多毛细长蚁",
-          "genus": "Tetraponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Tetraponera rufonigra",
-          "zh": "红黑细长蚁",
-          "genus": "Tetraponera",
           "factCount": 0,
           "missingCore": [
             "summary",
@@ -13948,6 +13616,238 @@
           "missingCore": [],
           "missingDetail": [
             "ecology"
+          ]
+        }
+      ],
+      "completeness": 100
+    },
+    {
+      "subfamily": "Pseudomyrmecinae",
+      "subfamilyZh": "伪切叶蚁亚科",
+      "total": 16,
+      "withAny": 16,
+      "withCore": 16,
+      "withDetail": 16,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Tetraponera convexa",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera attenuata",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera modesta",
+          "zh": "平静细长蚁",
+          "genus": "Tetraponera",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Pseudomyrmex gracilis",
+          "zh": "细伪切叶蚁",
+          "genus": "Pseudomyrmex",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera allaborans",
+          "zh": "飘细长蚁",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera amargina",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera concava",
+          "zh": "凹唇细长蚁",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera extenuata",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera microcarpa",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera nigra",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera pilosa",
+          "zh": "多毛细长蚁",
+          "genus": "Tetraponera",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Pseudomyrmex apache",
+          "zh": "阿帕奇伪切叶蚁",
+          "genus": "Pseudomyrmex",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Pseudomyrmex ferrugineus",
+          "zh": "",
+          "genus": "Pseudomyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Pseudomyrmex simplex",
+          "zh": "单伪切叶蚁",
+          "genus": "Pseudomyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "diet",
+            "behavior"
+          ]
+        },
+        {
+          "sci": "Tetraponera binghami",
+          "zh": "",
+          "genus": "Tetraponera",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Tetraponera rufonigra",
+          "zh": "红黑细长蚁",
+          "genus": "Tetraponera",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "diet",
+            "colony",
+            "flight"
           ]
         }
       ],

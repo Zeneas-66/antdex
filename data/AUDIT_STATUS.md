@@ -1,18 +1,18 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T02:55:03.832Z
+生成时间：2026-08-17T02:59:14.053Z
 
-总物种：**732**；已有 verified/rich 记录：**53**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**69**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
 | Dorylinae · 行军蚁亚科 | 28 | 0 | 0 | 0 | 28 | 0% |
-| Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 0 | 0 | 0 | 16 | 0% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 1 | 1 | 1 | 38 | 2.6% |
 | Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
+| Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 16 | 16 | 16 | 0 | 100% |
 | Proceratiinae · 卷尾猛蚁亚科 | 11 | 11 | 11 | 8 | 0 | 100% |
 | Ectatomminae · 突蚁亚科 | 6 | 6 | 6 | 4 | 0 | 100% |
 | Amblyoponinae · 钝猛蚁亚科 | 4 | 4 | 4 | 1 | 0 | 100% |
@@ -51,25 +51,6 @@
 - Parasyscia ganeshaiahi — 有效字段 0；缺核心：summary, distribution
 - Syscia typhla — 有效字段 0；缺核心：summary, distribution
 - Yunodorylus sexspinus — 有效字段 0；缺核心：summary, distribution
-
-### Pseudomyrmecinae · 伪切叶蚁亚科
-
-- 阿帕奇伪切叶蚁 · Pseudomyrmex apache — 有效字段 0；缺核心：summary, distribution
-- Pseudomyrmex ferrugineus — 有效字段 0；缺核心：summary, distribution
-- 细伪切叶蚁 · Pseudomyrmex gracilis — 有效字段 0；缺核心：summary, distribution
-- 单伪切叶蚁 · Pseudomyrmex simplex — 有效字段 0；缺核心：summary, distribution
-- 飘细长蚁 · Tetraponera allaborans — 有效字段 0；缺核心：summary, distribution
-- Tetraponera amargina — 有效字段 0；缺核心：summary, distribution
-- Tetraponera attenuata — 有效字段 0；缺核心：summary, distribution
-- Tetraponera binghami — 有效字段 0；缺核心：summary, distribution
-- 凹唇细长蚁 · Tetraponera concava — 有效字段 0；缺核心：summary, distribution
-- Tetraponera convexa — 有效字段 0；缺核心：summary, distribution
-- Tetraponera extenuata — 有效字段 0；缺核心：summary, distribution
-- Tetraponera microcarpa — 有效字段 0；缺核心：summary, distribution
-- 平静细长蚁 · Tetraponera modesta — 有效字段 0；缺核心：summary, distribution
-- Tetraponera nigra — 有效字段 0；缺核心：summary, distribution
-- 多毛细长蚁 · Tetraponera pilosa — 有效字段 0；缺核心：summary, distribution
-- 红黑细长蚁 · Tetraponera rufonigra — 有效字段 0；缺核心：summary, distribution
 
 ### Dolichoderinae · 臭蚁亚科
 
@@ -694,6 +675,10 @@
 - 窄颈弓背蚁 · Camponotus angusticollis — 有效字段 1；缺核心：distribution
 
 ### Myrmeciinae · 犬蚁亚科
+
+核心资料已覆盖。
+
+### Pseudomyrmecinae · 伪切叶蚁亚科
 
 核心资料已覆盖。
 
