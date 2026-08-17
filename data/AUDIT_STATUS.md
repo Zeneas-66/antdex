@@ -1,14 +1,14 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:11:58.575Z
+生成时间：2026-08-17T03:16:06.532Z
 
-总物种：**732**；已有 verified/rich 记录：**148**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**172**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
-| Ponerinae · 猛蚁亚科 | 68 | 16 | 15 | 12 | 52 | 22.1% |
+| Ponerinae · 猛蚁亚科 | 68 | 39 | 39 | 27 | 29 | 57.4% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
@@ -535,29 +535,6 @@
 
 ### Ponerinae · 猛蚁亚科
 
-- 安南扁头猛蚁 · Ectomomyrmex annamitus — 有效字段 0；缺核心：summary, distribution
-- 爪哇扁头猛蚁 · Ectomomyrmex javanus — 有效字段 0；缺核心：summary, distribution
-- Ectomomyrmex leeuwenhoeki — 有效字段 0；缺核心：summary, distribution
-- 片突扁头猛蚁 · Ectomomyrmex lobocarenus — 有效字段 0；缺核心：summary, distribution
-- Ectomomyrmex pylor — 有效字段 0；缺核心：summary, distribution
-- 邵氏扁头猛蚁 · Ectomomyrmex sauteri — 有效字段 0；缺核心：summary, distribution
-- 郑氏扁头猛蚁 · Ectomomyrmex zhengi — 有效字段 0；缺核心：summary, distribution
-- Emeryopone melaina — 有效字段 0；缺核心：summary, distribution
-- Hypoponera nippona — 有效字段 0；缺核心：summary, distribution
-- Hypoponera sauteri — 有效字段 0；缺核心：summary, distribution
-- Hypoponera truncata — 有效字段 0；缺核心：summary, distribution
-- Leptogenys binghamii — 有效字段 0；缺核心：summary, distribution
-- 缅甸细颚猛蚁 · Leptogenys birmana — 有效字段 0；缺核心：summary, distribution
-- 婆罗洲细颚猛蚁 · Leptogenys borneensis — 有效字段 0；缺核心：summary, distribution
-- Leptogenys chinensis — 有效字段 0；缺核心：summary, distribution
-- Leptogenys crassicornis — 有效字段 0；缺核心：summary, distribution
-- Leptogenys diminuta — 有效字段 0；缺核心：summary, distribution
-- 家细颚猛蚁 · Leptogenys famelica — 有效字段 0；缺核心：summary, distribution
-- 基氏细颚猛蚁 · Leptogenys kitteli — 有效字段 0；缺核心：summary, distribution
-- Leptogenys lucidula — 有效字段 0；缺核心：summary, distribution
-- Leptogenys mengzii — 有效字段 0；缺核心：summary, distribution
-- Leptogenys peuqueti — 有效字段 0；缺核心：summary, distribution
-- Myopias hania — 有效字段 0；缺核心：summary, distribution
 - 铜绿新猛蚁 · Neoponera aenescens — 有效字段 0；缺核心：summary, distribution
 - 棱胸新猛蚁 · Neoponera carinulata — 有效字段 0；缺核心：summary, distribution
 - 沟额新猛蚁 · Neoponera crenata — 有效字段 0；缺核心：summary, distribution
@@ -587,7 +564,6 @@
 - Ponera nangongshana — 有效字段 0；缺核心：summary, distribution
 - Ponera pianmana — 有效字段 0；缺核心：summary, distribution
 - 三齿修猛蚁 · Pseudoneoponera tridentata — 有效字段 0；缺核心：summary, distribution
-- 敏捷扁头猛蚁 · Ectomomyrmex astutus — 有效字段 1；缺核心：distribution
 
 ### Dolichoderinae · 臭蚁亚科
 
