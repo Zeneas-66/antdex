@@ -1,14 +1,14 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:16:06.532Z
+生成时间：2026-08-17T03:20:32.227Z
 
-总物种：**732**；已有 verified/rich 记录：**172**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**201**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
-| Ponerinae · 猛蚁亚科 | 68 | 39 | 39 | 27 | 29 | 57.4% |
+| Ponerinae · 猛蚁亚科 | 68 | 68 | 68 | 48 | 0 | 100% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 24 | 24 | 11 | 0 | 100% |
@@ -535,35 +535,7 @@
 
 ### Ponerinae · 猛蚁亚科
 
-- 铜绿新猛蚁 · Neoponera aenescens — 有效字段 0；缺核心：summary, distribution
-- 棱胸新猛蚁 · Neoponera carinulata — 有效字段 0；缺核心：summary, distribution
-- 沟额新猛蚁 · Neoponera crenata — 有效字段 0；缺核心：summary, distribution
-- 亮毛新猛蚁 · Neoponera villosa — 有效字段 0；缺核心：summary, distribution
-- Odontomachus aciculatus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus affinis — 有效字段 0；缺核心：summary, distribution
-- Odontomachus angulatus — 有效字段 0；缺核心：summary, distribution
-- 鲍氏大齿猛蚁 · Odontomachus bauri — 有效字段 0；缺核心：summary, distribution
-- Odontomachus brunneus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus chelifer — 有效字段 0；缺核心：summary, distribution
-- Odontomachus circulus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus coquereli — 有效字段 0；缺核心：summary, distribution
-- 赤头大齿猛蚁 · Odontomachus erythrocephalus — 有效字段 0；缺核心：summary, distribution
-- 光亮大齿猛蚁 · Odontomachus fulgidus — 有效字段 0；缺核心：summary, distribution
-- 粒纹大齿猛蚁 · Odontomachus granatus — 有效字段 0；缺核心：summary, distribution
-- 血色大齿猛蚁 · Odontomachus haematodus — 有效字段 0；缺核心：summary, distribution
-- 矛大齿猛蚁 · Odontomachus hastatus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus kuroiwae — 有效字段 0；缺核心：summary, distribution
-- Odontomachus malignus — 有效字段 0；缺核心：summary, distribution
-- 山大齿猛蚁 · Odontomachus monticola — 有效字段 0；缺核心：summary, distribution
-- 争吵大齿猛蚁 · Odontomachus rixosus — 有效字段 0；缺核心：summary, distribution
-- Odontomachus tensus — 有效字段 0；缺核心：summary, distribution
-- 齿唇齿猛蚁 · Odontoponera denticulata — 有效字段 0；缺核心：summary, distribution
-- 钩厚结猛蚁 · Pachycondyla harpax — 有效字段 0；缺核心：summary, distribution
-- 紫厚结猛蚁 · Pachycondyla purpurascens — 有效字段 0；缺核心：summary, distribution
-- Ponera menglana — 有效字段 0；缺核心：summary, distribution
-- Ponera nangongshana — 有效字段 0；缺核心：summary, distribution
-- Ponera pianmana — 有效字段 0；缺核心：summary, distribution
-- 三齿修猛蚁 · Pseudoneoponera tridentata — 有效字段 0；缺核心：summary, distribution
+核心资料已覆盖。
 
 ### Dolichoderinae · 臭蚁亚科
 
