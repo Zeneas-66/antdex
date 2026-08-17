@@ -1,2032 +1,1476 @@
 {
-  "generatedAt": "2026-08-17T03:26:22.520Z",
-  "source": "AntWeb curated Geolocale/Taxon lists",
+  "generatedAt": "2026-08-17T03:29:05.848Z",
+  "source": "GBIF Species API + occurrence country facet",
   "targetCount": 506,
-  "generated": 0,
+  "generated": 139,
   "failed": [
     {
-      "sci": "Acromyrmex landolti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex hystrix",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex nigrosetosus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex octospinosus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex disciger",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex coronatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex subterraneus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex versicolor",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster caeciliae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster beccarii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acropyga nipponensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Acromyrmex volcanus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster exasperata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster feae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster japonica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster tibetana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster geei",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Aphaenogaster smythiesii",
-      "reason": "HTTP 403"
+      "sci": "Atta capiguara",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Atta bisphaerica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Atta capiguara",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Atta colombica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Atta insularis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Atta opaciceps",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Atta mexicana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Atta saltensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Atta texana",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Atta robusta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Brachymyrmex patagonicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Calyptomyrmex rectopilosus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus acutirostris",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotites shanwangensis",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Camponotus absquatulator",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Camponotus albipes",
-      "reason": "HTTP 403"
+      "sci": "Atta saltensis",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Atta texana",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Atta opaciceps",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus acutirostris",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus aeneopilosus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus albipes",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus albosparsus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus altivagans",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus americanus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus anthrax",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus angusticollis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus atrox",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus auriculatus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus atriceps",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus atrox",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus auriculatus",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus aurocinctus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus bakeri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus barbatus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus bishamon",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Camponotus barbatus",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus caryae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus buddhae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus carin",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus castanicola",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus castaneus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus cingulatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus cinctellus",
-      "reason": "HTTP 403"
+      "sci": "Camponotus castanicola",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus chromaiodes",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus compressus",
-      "reason": "HTTP 403"
+      "sci": "Camponotus cinctellus",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus clarithorax",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus consobrinus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus conspicuus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus daitoensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus coriolanus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus cuauhtemoc",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus decipiens",
-      "reason": "HTTP 403"
+      "sci": "Camponotus cingulatus",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus clarior",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus daitoensis",
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Camponotus clarithorax",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus compressus",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus coriolanus",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus cuauhtemoc",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus discolor",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus dryandrae",
-      "reason": "HTTP 403"
+      "sci": "Camponotus decipiens",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus divergens",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus dolendus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus elegans",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus dumetorum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus empedocles",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus ephippium",
-      "reason": "HTTP 403"
+      "sci": "Camponotus dryandrae",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus eastwoodi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus festinus diligens",
-      "reason": "HTTP 403"
+      "sci": "Camponotus dumetorum",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus empedocles",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus fragilis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus friedae",
-      "reason": "HTTP 403"
+      "sci": "Camponotus festinus diligens",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus intrepidus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus itoi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus jianghuaensis",
-      "reason": "HTTP 403"
+      "sci": "Camponotus friedae",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus irritabilis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus itoi",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus jianghuaensis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus juliae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus lasiselene",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus lighti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus misturus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus mitis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus novogranadensis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus ocreatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus pressipes",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus planatus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus parius",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus pseudoirritans",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus pressipes errans",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus pseudolendus",
-      "reason": "HTTP 403"
+      "sci": "Camponotus pressipes",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Camponotus quadrinotatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus spanis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus vitiosus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus turkestanus",
-      "reason": "HTTP 403"
+      "sci": "Camponotus pseudoirritans",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus satan",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus spanis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus turkestanicus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus vitiosus",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Camponotus turkestanus",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Camponotus wasmanni",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Camponotus yogi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cardiocondyla tibetana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cardiocondyla wroughtonii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Carebara affinis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Carebara altinodus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cataglyphis aenescens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Carebara obtusidenta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Carebara lignata",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Carebara vespillo",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Cataglyphis albicans",
-      "reason": "HTTP 403"
+      "sci": "Carebara obtusidenta",
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Cardiocondyla wroughtonii",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Carebara affinis",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Carebara lignata",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Cataglyphis bombycina",
-      "reason": "HTTP 403"
+      "reason": "unsafe name match Cataglyphis bombycinus (Roger, 1859)"
     },
     {
-      "sci": "Cataglyphis savignyi",
-      "reason": "HTTP 403"
+      "sci": "Cataglyphis aenescens",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Cataglyphis albicans",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Cataglyphis cursor",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Cataglyphis savignyi",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Cataulacus marginatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cataulacus hispidulus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Cataulacus granulatus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Cephalotes atratus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Colobopsis leonardi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster aberrans",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Cephalotes varians",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster abrupta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster abstinens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster abdominalis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster aculeata",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Colobopsis vitrea",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster abdominalis",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster aberrans",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster aculeata",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster acaciae",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster acuta",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster adrepens",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster aegyptiaca",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster afghanica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster affabilis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster afghanica",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster africana",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster agnetis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster algirica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster alluaudi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster ambigua",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster amabilis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster algirica",
+      "reason": "no country occurrence"
+    },
+    {
+      "sci": "Crematogaster ambigua",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster ampullaris",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster angusticeps",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster biroi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster angulosa",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster angusticeps",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster biroi",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster brasiliensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster dohrni",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster egidyi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster californica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster ferrarii",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster inflata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster osakensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster nawai",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster politula",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Crematogaster nigropilosa",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster matsumurai",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Crematogaster rogenhoferi",
-      "reason": "HTTP 403"
+      "sci": "Crematogaster nawai",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Dilobocondyla fouqueti",
-      "reason": "HTTP 403"
+      "sci": "Crematogaster nigropilosa",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Crematogaster treubi",
-      "reason": "HTTP 403"
+      "sci": "Crematogaster osakensis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Crematogaster zoceensis",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Crematogaster rothneyi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Crematogaster treubi",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Dilobocondyla fouqueti",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Dilobocondyla gaoyureni",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Echinopla angustata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Echinopla lineata",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Echinopla cherapunjiensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Echinopla tritschleri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Echinopla rugosa",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Echinopla circulus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Echinopla tritschleri",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Erromyrma latinodis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Euprenolepis procera",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica accreta",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica aerata",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica aquilonia",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica archboldi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica aserva",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica argentea",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica cinerea",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica bradleyi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica candida",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica clara",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica cunicularia",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica exsecta",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica exsectoides",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica foreli",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica forsslundi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Formica glabridorsis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica fusca",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica francoeuri",
-      "reason": "HTTP 403"
+      "sci": "Formica foreli",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica gagatoides",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Formica glabridorsis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica glacialis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica japonica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica litoralis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica orangea",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Formica pamirica",
-      "reason": "HTTP 403"
+      "reason": "unsafe name match Formica pacifica Francoeur, 1973"
     },
     {
       "sci": "Formica rufibarbis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica sinensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica manchu",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Formica tarimica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Gaoligongidris planodorsa",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Formica tianshanica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Gauromyrmex acanthinus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Gesomyrmex chaperi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Gesomyrmex howardi",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Kartidris ashima",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius alienus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius americanus",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Kartidris sparsipila",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius bicornis",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius balearicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius arizonicus",
-      "reason": "HTTP 403"
+      "reason": "unsafe name match Lasius balcanicus Seifert, 1988"
     },
     {
       "sci": "Lasius brevipalpus",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius bureni",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius brunneus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius californicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius colei",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius chinensis",
-      "reason": "HTTP 403"
+      "reason": "unsafe name match Lasinus chinensis Löbl, 1964"
     },
     {
-      "sci": "Lasius carniolicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius coloradensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius claviger",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius coloratus",
-      "reason": "HTTP 403"
+      "sci": "Lasius colei",
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius creightoni",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Lasius crypticus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius emarginatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius flavus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius japonicus",
-      "reason": "HTTP 403"
+      "sci": "Lasius coloradensis",
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius kabaki",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius longipalpus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius obscuratus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius niger",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Lasius sichuensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lasius spathepus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lepisiota rothneyi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lepisiota opaca",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lordomyrma bhutanensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lophomyrmex quadrispinosus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Lordomyrma idianale",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Meranoplus laeviventris",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Meranoplus castaneus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor angularis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor bouvieri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor capitatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor arenarius",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor cephalotes",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Messor desertora",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor decipiens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor hebraeus",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Messor desertus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor himalayanus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor ibericus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor minor",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor wasmanni",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Monomorium chinense",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Messor structor",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Monomorium intrudens",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Monomorium ergatogyna",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Messor wasmanni",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Monomorium orientale",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmecina curvispina",
-      "reason": "HTTP 403"
+      "sci": "Monomorium intrudens",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Monomorium pharaonis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecina pauca",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecina guangxiensis",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Myrmecina raviwonghei",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecina sauteri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus kennedyi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus melanoticus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecina striata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus navajo",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecina taiwana",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmecocystus melanoticus",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecocystus mimicus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus placodops",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmecocystus wheeleri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica alaskensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica americana",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecocystus semirufus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmecocystus testaceus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmica bactriana",
-      "reason": "HTTP 403"
+      "sci": "Myrmecocystus wheeleri",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmica curiosa",
-      "reason": "HTTP 403"
+      "sci": "Myrmica alaskensis",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmica draco",
-      "reason": "HTTP 403"
+      "sci": "Myrmecocystus kennedyi",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmica brevispinosa",
-      "reason": "HTTP 403"
+      "sci": "Myrmica americana",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica gebaueri",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Myrmica jessensis",
-      "reason": "HTTP 403"
+      "sci": "Myrmica bactriana",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmica brevispinosa",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica incompleta",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmica jessensis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica koreana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica lobulicornis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica kotokui",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmica lobulicornis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica lonae",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica multiplex",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica margaritae",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica phalacra",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica pleiorhytida",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica punctiventris",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica rubra",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica ruginodis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica sabuleti",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica ritae",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmica scabrinodis",
-      "reason": "HTTP 403"
+      "sci": "Myrmica rubra",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Myrmica sinensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica tibetana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica schencki",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Myrmica smythiesii",
-      "reason": "HTTP 403"
+      "sci": "Myrmica ruginodis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmica titanica",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Myrmica sabuleti",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmica scabrinodis",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmica schencki",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Myrmica tibetana",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmoteras binghamii",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Myrmoteras cuneonodum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Nesomyrmex echinatinodis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Novomessor cockerelli",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Nylanderia bourbonica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia emmae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia flavipes",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia flaviabdominis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Nylanderia integera",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Nylanderia opisopthalmia",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia sharpii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Nylanderia yerburyi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Oecophylla longinoda",
-      "reason": "HTTP 403"
+      "sci": "Nylanderia emmae",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Paraparatrechina sakurae",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Nylanderia opisopthalmia",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Nylanderia sharpii",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Oecophylla longinoda",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Nylanderia taylori",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Paraparatrechina sauteri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Paratrechina umbra",
-      "reason": "HTTP 403"
+      "sci": "Nylanderia yerburyi",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Perissomyrmex bidentatus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole acutidens",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Perissomyrmex fissus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole barreleti",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Pheidole antipodum",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Pheidole acutidens",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole argentina",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole barreleti",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole bicarinata",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole bigote",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole binghamii",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole braueri",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole branstetteri",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole californica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole carinote",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole bula",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole cerebrosior",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole crassicornis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole ceres",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole cerebrosior",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole ceylonica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole debilis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole decepticon",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole clavata",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Pheidole dentigula",
-      "reason": "HTTP 403"
+      "sci": "Pheidole decepticon",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole dentata",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Pheidole dodo",
-      "reason": "HTTP 403"
+      "sci": "Pheidole dentigula",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole diffidens",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole dodo",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole elecebra",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole elongicephala",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole eowilsoni",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole elongicephala",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole epiphyta",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole fervens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole fossimandibula",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole ernsti",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole fervida",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole fossimandibula",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole gracilipes",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole gymnoceras",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole indosinensis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole hongkongensis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Pheidole magna",
-      "reason": "HTTP 403"
+      "sci": "Pheidole gymnoceras",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole hyatti",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole indosinensis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole parva",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole nietneri",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole plagiaria",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole pieli",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole planifrons",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Pheidole radoszkowskii",
-      "reason": "HTTP 403"
+      "sci": "Pheidole plagiaria",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole rabo",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole radoszkowskii",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole roberti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole rugithorax",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole sagei",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole sinica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole taipoana",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole smythiesii",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole taipoana",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole tandjongensis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole tjibodana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole vieti",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole tumida",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole vieti",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole vistana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole zoceana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Plagiolepis manczshurica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole watsoni",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pheidole yeensis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pheidole vulgaris",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Pheidole watsoni",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Plagiolepis manczshurica",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pogonomyrmex rugosus",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis abdominalis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pogonomyrmex subnitidus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Polyrhachis bicolor",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis armata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis bihamata",
-      "reason": "HTTP 403"
+      "sci": "Polyrhachis abdominalis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyergus samurai",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis armata",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis bicolor",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis curvispina",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis demangei",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis bugnioni",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Polyrhachis dentihumera",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Polyrhachis convexa",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis demangei",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis dives",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis exercita",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis furcata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis follicula",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis gracilior",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis halidayi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis gibbosa",
-      "reason": "HTTP 403"
+      "reason": "unsafe name match Polyrhachis gibbula"
+    },
+    {
+      "sci": "Polyrhachis follicula",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis exercita",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis furcata",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis gracilior",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis illaudata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis hippomanes",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis moesta",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis latona",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis mucronata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis proxima",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis rastellata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis shixingensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis rufipes",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis quadrispinosa",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Polyrhachis moesta",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis mucronata",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis proxima",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis rastellata",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis striata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis thrinax",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis tyrannica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis cyclopia",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis angularis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Polyrhachis vigilans",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis imparis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Prenolepis naoroji",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Polyrhachis tibialis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Prenolepis melanogaster",
-      "reason": "HTTP 403"
+      "sci": "Polyrhachis thrinax",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Prenolepis mediops",
-      "reason": "HTTP 403"
+      "sci": "Polyrhachis tyrannica",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Polyrhachis vigilans",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Prenolepis cyclopia",
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Prenolepis angularis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Prenolepis quinquedenta",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Pristomyrmex brevispinosus",
-      "reason": "HTTP 403"
+      "sci": "Prenolepis mediops",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Prenolepis naoroji",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Prenolepis shanialena",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pristomyrmex hamatus",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Pristomyrmex brevispinosus",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pristomyrmex punctatus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Procryptocerus batesi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Proformica mongolica",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pseudolasius familiaris",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pseudolasius emeryi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Pseudolasius silvestrii",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Pseudolasius cibdelus",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Recurvidris kemneri",
-      "reason": "HTTP 403"
+      "sci": "Pseudolasius familiaris",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Recurvidris recurvispinosa",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Rotastruma stenoceps",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Solenopsis geminata",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Solenopsis jacoti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Solenopsis xyloni",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Solenopsis molesta",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Solenopsis jacoti",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Stenamma jeriorum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys abdera",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys abdita",
-      "reason": "HTTP 403"
+      "reason": "unsafe name match Strumigenys abdera Fisher"
     },
     {
-      "sci": "Strumigenys acarai",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Stenamma owstoni",
-      "reason": "HTTP 403"
+      "sci": "Solenopsis xyloni",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys abditivata",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys actis",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys acarai",
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys acheron",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys ailaoshana",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys alberti",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys anhdaoae",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys acubecca",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys dohertyi",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys actis",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Strumigenys anhdaoae",
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys apalachicolensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys dyschima",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys archboldi",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Strumigenys canina",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys elegantula",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys alberti",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Strumigenys feae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys kumadori",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys lewisi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys hirsuta",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys dyschima",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys exilirhina",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Strumigenys feae",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys kichijo",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Strumigenys minutula",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys hirsuta",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Strumigenys kumadori",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Strumigenys lewisi",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys lyroessa",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Strumigenys minutula",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys mitis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys nanzanensis",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys mutica",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys nathistorisoc",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys nepalensis",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys paraposta",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys rallarhina",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Strumigenys sauteri",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys nepalensis",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Strumigenys strygax",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Strumigenys sydorata",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys sauteri",
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Strumigenys zandala",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys rallarhina",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Temnothorax nassonovi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Temnothorax liviae",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Temnothorax wui",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
       "sci": "Temnothorax orchidus",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Tetramorium atratulum",
-      "reason": "HTTP 403"
+      "sci": "Temnothorax wui",
+      "reason": "unsafe rank GENUS"
     },
     {
-      "sci": "Tetramorium aptum",
-      "reason": "HTTP 403"
+      "sci": "Strumigenys sydorata",
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Strumigenys zandala",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Temnothorax xanthos",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank GENUS"
+    },
+    {
+      "sci": "Tetramorium aptum",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium bicarinatum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium ciliatum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium caespitum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Tetramorium ciliatum",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium curvispinosum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium flavipes",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium hungaricum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium hispidum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium immigrans",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Tetramorium hungaricum",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium inquilinum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium insolens",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium kheperra",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium kraepelini",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium laparum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium mayri",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium nipponense",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium pacificum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium parvispinum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium polymorphum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium pilosum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium repletum",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium smithi",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Tetramorium tsushimae",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium shensiense",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
+    },
+    {
+      "sci": "Tetramorium smithi",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium tonganum",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
       "sci": "Tetramorium walshi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     },
     {
-      "sci": "Tetramorium wroughtonii",
-      "reason": "HTTP 403"
+      "sci": "Tetramorium tsushimae",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Uwari keihitoi",
-      "reason": "HTTP 403"
+      "reason": "unsafe rank KINGDOM"
     },
     {
-      "sci": "Veromessor pergandei",
-      "reason": "HTTP 403"
-    },
-    {
-      "sci": "Veromessor andrei",
-      "reason": "HTTP 403"
+      "sci": "Tetramorium wroughtonii",
+      "reason": "HTTP 429"
     },
     {
       "sci": "Vollenhovia emeryi",
-      "reason": "HTTP 403"
+      "reason": "HTTP 429"
     }
   ]
 }
