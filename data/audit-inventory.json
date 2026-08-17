@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T02:49:54.802Z",
+  "generatedAt": "2026-08-17T02:53:01.646Z",
   "totalSpecies": 732,
-  "verifiedRecords": 21,
+  "verifiedRecords": 34,
   "conflicts": [],
   "subfamilies": [
     {
@@ -1121,202 +1121,6 @@
           "sci": "Proceratium zhaoi",
           "zh": "",
           "genus": "Proceratium",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 0
-    },
-    {
-      "subfamily": "Amblyoponinae",
-      "subfamilyZh": "钝猛蚁亚科",
-      "total": 4,
-      "withAny": 0,
-      "withCore": 0,
-      "withDetail": 0,
-      "empty": 4,
-      "species": [
-        {
-          "sci": "Myopopone castanea",
-          "zh": "红矛猛蚁",
-          "genus": "Myopopone",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Mystrium camillae",
-          "zh": "",
-          "genus": "Mystrium",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stigmatomma mulanae",
-          "zh": "",
-          "genus": "Stigmatomma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stigmatomma octodentatum",
-          "zh": "",
-          "genus": "Stigmatomma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 0
-    },
-    {
-      "subfamily": "Leptanillinae",
-      "subfamilyZh": "细蚁亚科",
-      "total": 3,
-      "withAny": 0,
-      "withCore": 0,
-      "withDetail": 0,
-      "empty": 3,
-      "species": [
-        {
-          "sci": "Leptanilla revelierii",
-          "zh": "",
-          "genus": "Leptanilla",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Leptanilla taiwanensis",
-          "zh": "",
-          "genus": "Leptanilla",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Opamyrma hungvuong",
-          "zh": "",
-          "genus": "Opamyrma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 0
-    },
-    {
-      "subfamily": "Paraponerinae",
-      "subfamilyZh": "近猛蚁亚科",
-      "total": 1,
-      "withAny": 0,
-      "withCore": 0,
-      "withDetail": 0,
-      "empty": 1,
-      "species": [
-        {
-          "sci": "Paraponera clavata",
-          "zh": "子弹蚁",
-          "genus": "Paraponera",
           "factCount": 0,
           "missingCore": [
             "summary",
@@ -14012,133 +13816,6 @@
       "completeness": 5.3
     },
     {
-      "subfamily": "Ectatomminae",
-      "subfamilyZh": "突蚁亚科",
-      "total": 6,
-      "withAny": 1,
-      "withCore": 1,
-      "withDetail": 1,
-      "empty": 5,
-      "species": [
-        {
-          "sci": "Stictoponera bicolor",
-          "zh": "",
-          "genus": "Stictoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stictoponera coccina",
-          "zh": "",
-          "genus": "Stictoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stictoponera coxalis",
-          "zh": "",
-          "genus": "Stictoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stictoponera quadrutinodules",
-          "zh": "",
-          "genus": "Stictoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stictoponera treta",
-          "zh": "",
-          "genus": "Stictoponera",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Rhytidoponera metallica",
-          "zh": "金属皱突蚁",
-          "genus": "Rhytidoponera",
-          "factCount": 9,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        }
-      ],
-      "completeness": 16.7
-    },
-    {
       "subfamily": "Myrmeciinae",
       "subfamilyZh": "犬蚁亚科",
       "total": 24,
@@ -14549,6 +14226,261 @@
         }
       ],
       "completeness": 66.7
+    },
+    {
+      "subfamily": "Ectatomminae",
+      "subfamilyZh": "突蚁亚科",
+      "total": 6,
+      "withAny": 6,
+      "withCore": 6,
+      "withDetail": 4,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Stictoponera coxalis",
+          "zh": "",
+          "genus": "Stictoponera",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Stictoponera treta",
+          "zh": "",
+          "genus": "Stictoponera",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Stictoponera bicolor",
+          "zh": "",
+          "genus": "Stictoponera",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Stictoponera quadrutinodules",
+          "zh": "",
+          "genus": "Stictoponera",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Stictoponera coccina",
+          "zh": "",
+          "genus": "Stictoponera",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Rhytidoponera metallica",
+          "zh": "金属皱突蚁",
+          "genus": "Rhytidoponera",
+          "factCount": 9,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        }
+      ],
+      "completeness": 100
+    },
+    {
+      "subfamily": "Amblyoponinae",
+      "subfamilyZh": "钝猛蚁亚科",
+      "total": 4,
+      "withAny": 4,
+      "withCore": 4,
+      "withDetail": 1,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Mystrium camillae",
+          "zh": "",
+          "genus": "Mystrium",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Stigmatomma mulanae",
+          "zh": "",
+          "genus": "Stigmatomma",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Stigmatomma octodentatum",
+          "zh": "",
+          "genus": "Stigmatomma",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Myopopone castanea",
+          "zh": "红矛猛蚁",
+          "genus": "Myopopone",
+          "factCount": 9,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        }
+      ],
+      "completeness": 100
+    },
+    {
+      "subfamily": "Leptanillinae",
+      "subfamilyZh": "细蚁亚科",
+      "total": 3,
+      "withAny": 3,
+      "withCore": 3,
+      "withDetail": 2,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Leptanilla revelierii",
+          "zh": "",
+          "genus": "Leptanilla",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Opamyrma hungvuong",
+          "zh": "",
+          "genus": "Opamyrma",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Leptanilla taiwanensis",
+          "zh": "",
+          "genus": "Leptanilla",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        }
+      ],
+      "completeness": 100
+    },
+    {
+      "subfamily": "Paraponerinae",
+      "subfamilyZh": "近猛蚁亚科",
+      "total": 1,
+      "withAny": 1,
+      "withCore": 1,
+      "withDetail": 1,
+      "empty": 0,
+      "species": [
+        {
+          "sci": "Paraponera clavata",
+          "zh": "子弹蚁",
+          "genus": "Paraponera",
+          "factCount": 9,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "flight"
+          ]
+        }
+      ],
+      "completeness": 100
     }
   ]
 }

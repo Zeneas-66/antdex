@@ -1,23 +1,23 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T02:49:54.802Z
+生成时间：2026-08-17T02:53:01.646Z
 
-总物种：**732**；已有 verified/rich 记录：**21**；导入冲突：**0**。
+总物种：**732**；已有 verified/rich 记录：**34**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
 | Dorylinae · 行军蚁亚科 | 28 | 0 | 0 | 0 | 28 | 0% |
 | Pseudomyrmecinae · 伪切叶蚁亚科 | 16 | 0 | 0 | 0 | 16 | 0% |
 | Proceratiinae · 卷尾猛蚁亚科 | 11 | 0 | 0 | 0 | 11 | 0% |
-| Amblyoponinae · 钝猛蚁亚科 | 4 | 0 | 0 | 0 | 4 | 0% |
-| Leptanillinae · 细蚁亚科 | 3 | 0 | 0 | 0 | 3 | 0% |
-| Paraponerinae · 近猛蚁亚科 | 1 | 0 | 0 | 0 | 1 | 0% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 1 | 1 | 1 | 38 | 2.6% |
 | Ponerinae · 猛蚁亚科 | 68 | 3 | 2 | 1 | 65 | 2.9% |
 | Myrmicinae · 切叶蚁亚科 | 304 | 16 | 14 | 13 | 288 | 4.6% |
 | Formicinae · 蚁亚科 | 228 | 13 | 12 | 10 | 215 | 5.3% |
-| Ectatomminae · 突蚁亚科 | 6 | 1 | 1 | 1 | 5 | 16.7% |
 | Myrmeciinae · 犬蚁亚科 | 24 | 16 | 16 | 8 | 8 | 66.7% |
+| Ectatomminae · 突蚁亚科 | 6 | 6 | 6 | 4 | 0 | 100% |
+| Amblyoponinae · 钝猛蚁亚科 | 4 | 4 | 4 | 1 | 0 | 100% |
+| Leptanillinae · 细蚁亚科 | 3 | 3 | 3 | 2 | 0 | 100% |
+| Paraponerinae · 近猛蚁亚科 | 1 | 1 | 1 | 1 | 0 | 100% |
 
 ## 每个亚科优先补齐名单
 
@@ -84,23 +84,6 @@
 - Proceratium google — 有效字段 0；缺核心：summary, distribution
 - Proceratium longigaster — 有效字段 0；缺核心：summary, distribution
 - Proceratium zhaoi — 有效字段 0；缺核心：summary, distribution
-
-### Amblyoponinae · 钝猛蚁亚科
-
-- 红矛猛蚁 · Myopopone castanea — 有效字段 0；缺核心：summary, distribution
-- Mystrium camillae — 有效字段 0；缺核心：summary, distribution
-- Stigmatomma mulanae — 有效字段 0；缺核心：summary, distribution
-- Stigmatomma octodentatum — 有效字段 0；缺核心：summary, distribution
-
-### Leptanillinae · 细蚁亚科
-
-- Leptanilla revelierii — 有效字段 0；缺核心：summary, distribution
-- Leptanilla taiwanensis — 有效字段 0；缺核心：summary, distribution
-- Opamyrma hungvuong — 有效字段 0；缺核心：summary, distribution
-
-### Paraponerinae · 近猛蚁亚科
-
-- 子弹蚁 · Paraponera clavata — 有效字段 0；缺核心：summary, distribution
 
 ### Dolichoderinae · 臭蚁亚科
 
@@ -724,14 +707,6 @@
 - Uwari keihitoi — 有效字段 0；缺核心：summary, distribution
 - 窄颈弓背蚁 · Camponotus angusticollis — 有效字段 1；缺核心：distribution
 
-### Ectatomminae · 突蚁亚科
-
-- Stictoponera bicolor — 有效字段 0；缺核心：summary, distribution
-- Stictoponera coccina — 有效字段 0；缺核心：summary, distribution
-- Stictoponera coxalis — 有效字段 0；缺核心：summary, distribution
-- Stictoponera quadrutinodules — 有效字段 0；缺核心：summary, distribution
-- Stictoponera treta — 有效字段 0；缺核心：summary, distribution
-
 ### Myrmeciinae · 犬蚁亚科
 
 - 金腹牛蚁 · Myrmecia chrysogaster — 有效字段 0；缺核心：summary, distribution
@@ -742,4 +717,20 @@
 - 黑柄牛蚁 · Myrmecia nigriscapa — 有效字段 0；缺核心：summary, distribution
 - 黑带牛蚁 · Myrmecia nigrocincta — 有效字段 0；缺核心：summary, distribution
 - 梨形牛蚁 · Myrmecia pyriformis — 有效字段 0；缺核心：summary, distribution
+
+### Ectatomminae · 突蚁亚科
+
+核心资料已覆盖。
+
+### Amblyoponinae · 钝猛蚁亚科
+
+核心资料已覆盖。
+
+### Leptanillinae · 细蚁亚科
+
+核心资料已覆盖。
+
+### Paraponerinae · 近猛蚁亚科
+
+核心资料已覆盖。
 
