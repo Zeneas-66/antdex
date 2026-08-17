@@ -1,0 +1,38 @@
+name: AntDex data audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/audit-db.mjs'
+      - 'rich.js'
+      - 'data/verified-import.js'
+      - 'data/verified-batch-*.js'
+      - 'data/db-*.js'
+      - '.github/workflows/audit-data.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build completeness inventory
+        run: node tools/audit-db.mjs
+      - name: Commit audit report
+        run: |
+          if git diff --quiet -- data/audit-inventory.json data/AUDIT_STATUS.md; then
+            echo 'No audit changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/audit-inventory.json data/AUDIT_STATUS.md
+          git commit -m 'Update AntDex completeness audit [skip ci]'
+          git push
