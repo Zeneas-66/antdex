@@ -1,13 +1,13 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:43:00.946Z
+生成时间：2026-08-17T03:44:42.580Z
 
-总物种：**732**；已有 verified/rich 记录：**659**；导入冲突：**0**。
+总物种：**734**；已有 verified/rich 记录：**675**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Myrmicinae · 切叶蚁亚科 | 304 | 275 | 275 | 13 | 29 | 90.5% |
-| Formicinae · 蚁亚科 | 228 | 209 | 209 | 12 | 19 | 91.7% |
+| Myrmicinae · 切叶蚁亚科 | 304 | 279 | 279 | 14 | 25 | 91.8% |
+| Formicinae · 蚁亚科 | 228 | 219 | 219 | 13 | 9 | 96.1% |
 | Ponerinae · 猛蚁亚科 | 68 | 68 | 68 | 48 | 0 | 100% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
@@ -17,16 +17,13 @@
 | Ectatomminae · 突蚁亚科 | 6 | 6 | 6 | 4 | 0 | 100% |
 | Amblyoponinae · 钝猛蚁亚科 | 4 | 4 | 4 | 1 | 0 | 100% |
 | Leptanillinae · 细蚁亚科 | 3 | 3 | 3 | 2 | 0 | 100% |
+| Unknown | 2 | 2 | 2 | 0 | 0 | 100% |
 | Paraponerinae · 近猛蚁亚科 | 1 | 1 | 1 | 1 | 0 | 100% |
 
 ## 每个亚科优先补齐名单
 
 ### Myrmicinae · 切叶蚁亚科
 
-- Kartidris sparsipila — 有效字段 0；缺核心：summary, distribution
-- Messor desertora — 有效字段 0；缺核心：summary, distribution
-- 荒漠收获蚁 · Messor desertus — 有效字段 0；缺核心：summary, distribution
-- Myrmecina pauca — 有效字段 0；缺核心：summary, distribution
 - Myrmica gebaueri — 有效字段 0；缺核心：summary, distribution
 - Myrmica titanica — 有效字段 0；缺核心：summary, distribution
 - Perissomyrmex bidentatus — 有效字段 0；缺核心：summary, distribution
@@ -312,16 +309,6 @@
 
 ### Formicinae · 蚁亚科
 
-- Lasius balearicus — 有效字段 0；缺核心：summary, distribution
-- Lasius brevipalpus — 有效字段 0；缺核心：summary, distribution
-- Lasius bureni — 有效字段 0；缺核心：summary, distribution
-- Lasius chinensis — 有效字段 0；缺核心：summary, distribution
-- Lasius colei — 有效字段 0；缺核心：summary, distribution
-- Lasius coloradensis — 有效字段 0；缺核心：summary, distribution
-- Lasius creightoni — 有效字段 0；缺核心：summary, distribution
-- Lasius kabaki — 有效字段 0；缺核心：summary, distribution
-- Lasius longipalpus — 有效字段 0；缺核心：summary, distribution
-- Lasius sichuensis — 有效字段 0；缺核心：summary, distribution
 - Nylanderia integera — 有效字段 0；缺核心：summary, distribution
 - Paraparatrechina sakurae — 有效字段 0；缺核心：summary, distribution
 - Polyrhachis curvispina — 有效字段 0；缺核心：summary, distribution
@@ -447,14 +434,18 @@
 - Lasius arizonicus — 有效字段 2；缺核心：无
 - Lasius bicornis — 有效字段 2；缺核心：无
 - Lasius brunneus — 有效字段 2；缺核心：无
+- Lasius bureni — 有效字段 2；缺核心：无
 - Lasius californicus — 有效字段 2；缺核心：无
 - Lasius carniolicus — 有效字段 2；缺核心：无
 - Lasius claviger — 有效字段 2；缺核心：无
+- Lasius colei — 有效字段 2；缺核心：无
 - Lasius coloratus — 有效字段 2；缺核心：无
+- Lasius creightoni — 有效字段 2；缺核心：无
 - Lasius crypticus — 有效字段 2；缺核心：无
 - Lasius emarginatus — 有效字段 2；缺核心：无
 - Lasius flavus — 有效字段 2；缺核心：无
 - Lasius japonicus — 有效字段 2；缺核心：无
+- Lasius longipalpus — 有效字段 2；缺核心：无
 - 黑园蚁 · Lasius niger — 有效字段 2；缺核心：无
 - Lasius obscuratus — 有效字段 2；缺核心：无
 - Lasius spathepus — 有效字段 2；缺核心：无
@@ -555,6 +546,10 @@
 核心资料已覆盖。
 
 ### Leptanillinae · 细蚁亚科
+
+核心资料已覆盖。
+
+### Unknown
 
 核心资料已覆盖。
 
