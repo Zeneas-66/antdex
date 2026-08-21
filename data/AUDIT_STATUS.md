@@ -1,13 +1,13 @@
 # AntDex 全库补全审计
 
-生成时间：2026-08-17T03:45:34.211Z
+生成时间：2026-08-21T06:40:24.450Z
 
-总物种：**752**；已有 verified/rich 记录：**699**；导入冲突：**0**。
+总物种：**752**；已有 verified/rich 记录：**727**；导入冲突：**0**。
 
 | 亚科 | 物种数 | 有任意有效资料 | 首页核心齐全 | 有较完整详情 | 空壳 | 核心完成率 |
 |---|---:|---:|---:|---:|---:|---:|
-| Myrmicinae · 切叶蚁亚科 | 304 | 283 | 283 | 15 | 21 | 93.1% |
-| Formicinae · 蚁亚科 | 228 | 221 | 221 | 13 | 7 | 96.9% |
+| Myrmicinae · 切叶蚁亚科 | 304 | 304 | 304 | 25 | 0 | 100% |
+| Formicinae · 蚁亚科 | 228 | 228 | 228 | 14 | 0 | 100% |
 | Ponerinae · 猛蚁亚科 | 68 | 68 | 68 | 48 | 0 | 100% |
 | Dolichoderinae · 臭蚁亚科 | 39 | 39 | 39 | 30 | 0 | 100% |
 | Dorylinae · 行军蚁亚科 | 28 | 28 | 28 | 22 | 0 | 100% |
@@ -24,36 +24,6 @@
 
 ### Myrmicinae · 切叶蚁亚科
 
-- Myrmica titanica — 有效字段 0；缺核心：summary, distribution
-- Perissomyrmex bidentatus — 有效字段 0；缺核心：summary, distribution
-- Perissomyrmex fissus — 有效字段 0；缺核心：summary, distribution
-- Pheidole antipodum — 有效字段 0；缺核心：summary, distribution
-- Pristomyrmex hamatus — 有效字段 0；缺核心：summary, distribution
-- Stenamma jeriorum — 有效字段 0；缺核心：summary, distribution
-- Strumigenys abdita — 有效字段 0；缺核心：summary, distribution
-- Strumigenys abditivata — 有效字段 0；缺核心：summary, distribution
-- Strumigenys acarai — 有效字段 0；缺核心：summary, distribution
-- Strumigenys acheron — 有效字段 0；缺核心：summary, distribution
-- Strumigenys acubecca — 有效字段 0；缺核心：summary, distribution
-- Strumigenys ailaoshana — 有效字段 0；缺核心：summary, distribution
-- Strumigenys anhdaoae — 有效字段 0；缺核心：summary, distribution
-- Strumigenys apalachicolensis — 有效字段 0；缺核心：summary, distribution
-- Strumigenys archboldi — 有效字段 0；缺核心：summary, distribution
-- Strumigenys paraposta — 有效字段 0；缺核心：summary, distribution
-- Strumigenys strygax — 有效字段 0；缺核心：summary, distribution
-- Temnothorax nassonovi — 有效字段 0；缺核心：summary, distribution
-- Temnothorax orchidus — 有效字段 0；缺核心：summary, distribution
-- Temnothorax wui — 有效字段 0；缺核心：summary, distribution
-- 黄色切胸蚁 · Temnothorax xanthos — 有效字段 0；缺核心：summary, distribution
-- 皇冠顶切叶蚁 · Acromyrmex coronatus — 有效字段 2；缺核心：无
-- 盘毛顶切叶蚁 · Acromyrmex disciger — 有效字段 2；缺核心：无
-- 豪猪顶切叶蚁 · Acromyrmex hystrix — 有效字段 2；缺核心：无
-- 兰多顶切叶蚁 · Acromyrmex landolti — 有效字段 2；缺核心：无
-- 黑毛顶切叶蚁 · Acromyrmex nigrosetosus — 有效字段 2；缺核心：无
-- 八刺顶切叶蚁 · Acromyrmex octospinosus — 有效字段 2；缺核心：无
-- 地栖顶切叶蚁 · Acromyrmex subterraneus — 有效字段 2；缺核心：无
-- 杂色顶切叶蚁 · Acromyrmex versicolor — 有效字段 2；缺核心：无
-- 火山顶切叶蚁 · Acromyrmex volcanus — 有效字段 2；缺核心：无
 - Aphaenogaster beccarii — 有效字段 2；缺核心：无
 - Aphaenogaster caeciliae — 有效字段 2；缺核心：无
 - Aphaenogaster exasperata — 有效字段 2；缺核心：无
@@ -272,6 +242,7 @@
 - Strumigenys sydorata — 有效字段 2；缺核心：无
 - Strumigenys zandala — 有效字段 2；缺核心：无
 - Temnothorax liviae — 有效字段 2；缺核心：无
+- Temnothorax wui — 有效字段 2；缺核心：无
 - Tetramorium aptum — 有效字段 2；缺核心：无
 - Tetramorium atratulum — 有效字段 2；缺核心：无
 - Tetramorium bicarinatum — 有效字段 2；缺核心：无
@@ -305,13 +276,6 @@
 
 ### Formicinae · 蚁亚科
 
-- Nylanderia integera — 有效字段 0；缺核心：summary, distribution
-- Paraparatrechina sakurae — 有效字段 0；缺核心：summary, distribution
-- Polyrhachis curvispina — 有效字段 0；缺核心：summary, distribution
-- Polyrhachis dentihumera — 有效字段 0；缺核心：summary, distribution
-- 四刺多刺蚁 · Polyrhachis quadrispinosa — 有效字段 0；缺核心：summary, distribution
-- Prenolepis cyclopia — 有效字段 0；缺核心：summary, distribution
-- Prenolepis quinquedenta — 有效字段 0；缺核心：summary, distribution
 - Acropyga nipponensis — 有效字段 2；缺核心：无
 - 巴塔哥尼亚短蚁 · Brachymyrmex patagonicus — 有效字段 2；缺核心：无
 - Camponotus absquatulator — 有效字段 2；缺核心：无

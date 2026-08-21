@@ -1,591 +1,18 @@
 {
-  "generatedAt": "2026-08-17T03:45:34.211Z",
+  "generatedAt": "2026-08-21T06:40:24.450Z",
   "totalSpecies": 752,
-  "verifiedRecords": 699,
+  "verifiedRecords": 727,
   "conflicts": [],
   "subfamilies": [
     {
       "subfamily": "Myrmicinae",
       "subfamilyZh": "切叶蚁亚科",
       "total": 304,
-      "withAny": 283,
-      "withCore": 283,
-      "withDetail": 15,
-      "empty": 21,
+      "withAny": 304,
+      "withCore": 304,
+      "withDetail": 25,
+      "empty": 0,
       "species": [
-        {
-          "sci": "Myrmica titanica",
-          "zh": "",
-          "genus": "Myrmica",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Perissomyrmex bidentatus",
-          "zh": "",
-          "genus": "Perissomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Perissomyrmex fissus",
-          "zh": "",
-          "genus": "Perissomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pheidole antipodum",
-          "zh": "",
-          "genus": "Pheidole",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Pristomyrmex hamatus",
-          "zh": "",
-          "genus": "Pristomyrmex",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Stenamma jeriorum",
-          "zh": "",
-          "genus": "Stenamma",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys abdita",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys abditivata",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys acarai",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys acheron",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys acubecca",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys ailaoshana",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys anhdaoae",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys apalachicolensis",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys archboldi",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys paraposta",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Strumigenys strygax",
-          "zh": "",
-          "genus": "Strumigenys",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Temnothorax nassonovi",
-          "zh": "",
-          "genus": "Temnothorax",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Temnothorax orchidus",
-          "zh": "",
-          "genus": "Temnothorax",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Temnothorax wui",
-          "zh": "",
-          "genus": "Temnothorax",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Temnothorax xanthos",
-          "zh": "黄色切胸蚁",
-          "genus": "Temnothorax",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex coronatus",
-          "zh": "皇冠顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex disciger",
-          "zh": "盘毛顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex hystrix",
-          "zh": "豪猪顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex landolti",
-          "zh": "兰多顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex nigrosetosus",
-          "zh": "黑毛顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex octospinosus",
-          "zh": "八刺顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex subterraneus",
-          "zh": "地栖顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex versicolor",
-          "zh": "杂色顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Acromyrmex volcanus",
-          "zh": "火山顶切叶蚁",
-          "genus": "Acromyrmex",
-          "factCount": 2,
-          "missingCore": [],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
         {
           "sci": "Aphaenogaster beccarii",
           "zh": "",
@@ -4293,6 +3720,23 @@
           ]
         },
         {
+          "sci": "Temnothorax wui",
+          "zh": "",
+          "genus": "Temnothorax",
+          "factCount": 2,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Tetramorium aptum",
           "zh": "",
           "genus": "Tetramorium",
@@ -4803,6 +4247,54 @@
           ]
         },
         {
+          "sci": "Acromyrmex disciger",
+          "zh": "盘毛顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Acromyrmex hystrix",
+          "zh": "豪猪顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Acromyrmex nigrosetosus",
+          "zh": "黑毛顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight"
+          ]
+        },
+        {
           "sci": "Carebara altinodus",
           "zh": "",
           "genus": "Carebara",
@@ -4843,6 +4335,72 @@
           "missingCore": [],
           "missingDetail": [
             "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Stenamma jeriorum",
+          "zh": "",
+          "genus": "Stenamma",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys acubecca",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys paraposta",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Temnothorax xanthos",
+          "zh": "黄色切胸蚁",
+          "genus": "Temnothorax",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
             "ecology",
             "nest",
             "diet",
@@ -4933,6 +4491,23 @@
           ]
         },
         {
+          "sci": "Perissomyrmex fissus",
+          "zh": "",
+          "genus": "Perissomyrmex",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Pheidole argentina",
           "zh": "",
           "genus": "Pheidole",
@@ -4952,6 +4527,124 @@
           "sci": "Pheidole hongkongensis",
           "zh": "",
           "genus": "Pheidole",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys abdita",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys abditivata",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys acarai",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys acheron",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys archboldi",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys strygax",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Temnothorax nassonovi",
+          "zh": "",
+          "genus": "Temnothorax",
           "factCount": 4,
           "missingCore": [],
           "missingDetail": [
@@ -5044,6 +4737,97 @@
           ]
         },
         {
+          "sci": "Myrmica titanica",
+          "zh": "",
+          "genus": "Myrmica",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Pristomyrmex hamatus",
+          "zh": "",
+          "genus": "Pristomyrmex",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys anhdaoae",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys apalachicolensis",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Temnothorax orchidus",
+          "zh": "",
+          "genus": "Temnothorax",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Acromyrmex landolti",
+          "zh": "兰多顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "diet",
+            "colony",
+            "flight"
+          ]
+        },
+        {
           "sci": "Messor desertora",
           "zh": "",
           "genus": "Messor",
@@ -5056,6 +4840,47 @@
             "colony",
             "flight",
             "nomenclature"
+          ]
+        },
+        {
+          "sci": "Strumigenys ailaoshana",
+          "zh": "",
+          "genus": "Strumigenys",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Acromyrmex octospinosus",
+          "zh": "八刺顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Acromyrmex volcanus",
+          "zh": "火山顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "colony",
+            "flight"
           ]
         },
         {
@@ -5072,6 +4897,20 @@
           ]
         },
         {
+          "sci": "Pheidole antipodum",
+          "zh": "",
+          "genus": "Pheidole",
+          "factCount": 7,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "behavior",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Acanthomyrmex glabfemoralis",
           "zh": "光腿刺切叶蚁",
           "genus": "Acanthomyrmex",
@@ -5084,6 +4923,39 @@
             "colony",
             "flight",
             "nomenclature"
+          ]
+        },
+        {
+          "sci": "Acromyrmex coronatus",
+          "zh": "皇冠顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Acromyrmex subterraneus",
+          "zh": "地栖顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "flight"
+          ]
+        },
+        {
+          "sci": "Acromyrmex versicolor",
+          "zh": "杂色顶切叶蚁",
+          "genus": "Acromyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "flight"
           ]
         },
         {
@@ -5113,6 +4985,19 @@
             "behavior",
             "colony",
             "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Perissomyrmex bidentatus",
+          "zh": "",
+          "genus": "Perissomyrmex",
+          "factCount": 8,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
             "nomenclature"
           ]
         },
@@ -5203,157 +5088,17 @@
           ]
         }
       ],
-      "completeness": 93.1
+      "completeness": 100
     },
     {
       "subfamily": "Formicinae",
       "subfamilyZh": "蚁亚科",
       "total": 228,
-      "withAny": 221,
-      "withCore": 221,
-      "withDetail": 13,
-      "empty": 7,
+      "withAny": 228,
+      "withCore": 228,
+      "withDetail": 14,
+      "empty": 0,
       "species": [
-        {
-          "sci": "Nylanderia integera",
-          "zh": "",
-          "genus": "Nylanderia",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Paraparatrechina sakurae",
-          "zh": "",
-          "genus": "Paraparatrechina",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Polyrhachis curvispina",
-          "zh": "",
-          "genus": "Polyrhachis",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Polyrhachis dentihumera",
-          "zh": "",
-          "genus": "Polyrhachis",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Polyrhachis quadrispinosa",
-          "zh": "四刺多刺蚁",
-          "genus": "Polyrhachis",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Prenolepis cyclopia",
-          "zh": "",
-          "genus": "Prenolepis",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
-        {
-          "sci": "Prenolepis quinquedenta",
-          "zh": "",
-          "genus": "Prenolepis",
-          "factCount": 0,
-          "missingCore": [
-            "summary",
-            "distribution"
-          ],
-          "missingDetail": [
-            "identification",
-            "ecology",
-            "nest",
-            "diet",
-            "behavior",
-            "colony",
-            "flight",
-            "nomenclature"
-          ]
-        },
         {
           "sci": "Acropyga nipponensis",
           "zh": "",
@@ -8803,6 +8548,23 @@
           ]
         },
         {
+          "sci": "Polyrhachis curvispina",
+          "zh": "",
+          "genus": "Polyrhachis",
+          "factCount": 3,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Camponotus festinus",
           "zh": "迅捷弓背蚁",
           "genus": "Camponotus",
@@ -8843,6 +8605,22 @@
           "missingDetail": [
             "identification",
             "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Nylanderia integera",
+          "zh": "",
+          "genus": "Nylanderia",
+          "factCount": 4,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
             "diet",
             "behavior",
             "colony",
@@ -8897,6 +8675,69 @@
           ]
         },
         {
+          "sci": "Paraparatrechina sakurae",
+          "zh": "",
+          "genus": "Paraparatrechina",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Polyrhachis quadrispinosa",
+          "zh": "四刺多刺蚁",
+          "genus": "Polyrhachis",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "identification",
+            "ecology",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Prenolepis cyclopia",
+          "zh": "",
+          "genus": "Prenolepis",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Prenolepis quinquedenta",
+          "zh": "",
+          "genus": "Prenolepis",
+          "factCount": 5,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
           "sci": "Camponotus bishamon",
           "zh": "",
           "genus": "Camponotus",
@@ -8907,6 +8748,22 @@
             "ecology",
             "diet",
             "behavior",
+            "flight",
+            "nomenclature"
+          ]
+        },
+        {
+          "sci": "Polyrhachis dentihumera",
+          "zh": "",
+          "genus": "Polyrhachis",
+          "factCount": 6,
+          "missingCore": [],
+          "missingDetail": [
+            "ecology",
+            "nest",
+            "diet",
+            "behavior",
+            "colony",
             "flight",
             "nomenclature"
           ]
@@ -9075,7 +8932,7 @@
           ]
         }
       ],
-      "completeness": 96.9
+      "completeness": 100
     },
     {
       "subfamily": "Ponerinae",
