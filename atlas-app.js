@@ -2,7 +2,7 @@
 let DATA=[],selected='',view='overview',selectedMy='',editingMy=false;
 const MY=window.MY||[],MY_META=window.MY_META||{},IM=window.ANTDEX_IMAGES||{},RX=window.ANTDEX_RICH||{};
 const $=s=>document.querySelector(s);
-const E=v=>(v??'').toString().replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[m]));
+const E=v=>(v??'').toString().replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 const expandC=o=>({id:o.i,zh:o.z,aliases:o.a,sci:o.s,accepted:o.ac,subfamily:o.f,subfamilyZh:o.fz,genus:o.g,distribution:o.d,habitat:o.h,ecoTags:o.et,nest:o.n,diet:o.di,summary:o.sm,colony:o.co,worker:o.w,soldier:o.so,queen:o.q,male:o.m,identification:o.idn,behavior:o.b,flight:o.fl,temp:o.t,humidity:o.hu,difficulty:o.df,safety:o.sa});
 const expandA=o=>({id:o.i,zh:o.z,sci:o.s,accepted:o.ac,subfamily:o.f,subfamilyZh:o.fz,genus:o.g,aliases:o.la,distribution:o.ld,habitat:o.lh,ecoTags:o.let,nest:o.ln,diet:o.ldi,summary:o.lsm,worker:o.lw,workerDetail:o.lwd,queen:o.lq,temp:o.lt,humidity:o.lhu,husbandryWarning:o.lhw,nameNote:o.lnn});
 async function ungzipB64(b64){const bin=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));return await new Response(new Blob([bin]).stream().pipeThrough(new DecompressionStream('gzip'))).text()}
